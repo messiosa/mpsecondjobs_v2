@@ -197,6 +197,9 @@ modal = dbc.Modal([
 summary_page = html.Div([
     header,
     filter_bar,
+    html.Div('Click any MP name to see a full breakdown of their outside employment.',
+             style={'padding': '0 20px 5px', 'fontSize': 12, 'color': '#666',
+                    'fontFamily': 'Arial'}),
     html.Div([table], style={'padding': '0 20px 20px 20px'}),
     modal,
 ])
@@ -234,7 +237,7 @@ figures are estimates based on what the Register declares — actual
 payments may differ.
 
 The underlying data is open source — you can download the full dataset
-as Excel files from the [Summary](/) page.
+as Excel files from the Summary page.
 
 ---
 
@@ -255,7 +258,8 @@ MP Second Jobs was built and is maintained by **Andrew Messios**.
 ---
 
 **Support this project**
-        ''', style={'fontFamily': 'Arial', 'fontSize': 14}),
+        ''', style={'fontFamily': 'Arial', 'fontSize': 14},
+            link_target='_blank'),
 
         html.A(
             html.Img(src='assets/bmc_qr.png',
