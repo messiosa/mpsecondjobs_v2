@@ -1,3 +1,23 @@
+/* Global font and link consistency */
+body {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #383838;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #000;
+}
+
+/* Navbar links stay white */
+.navbar a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
 /* Hide sort arrows on the summary column */
 .dash-header[data-dash-column="summary"] .column-header--sort {
     display: none;
@@ -33,4 +53,9 @@ td.dash-cell.focused {
 /* Row hover effect to signal clickability */
 #summary-table tr:hover td {
     background-color: #e8e8e8 !important;
+}
+
+/* Underline name always to signal clickability */
+#summary-table td[data-dash-column="name"] {
+    text-decoration: underline;
 }
