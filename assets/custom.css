@@ -4,15 +4,15 @@ body {
 }
 
 a {
-    color: #383838;
-    text-decoration: underline;
+    color: #383838 !important;
+    text-decoration: underline !important;
 }
 
 a:hover {
-    color: #000;
+    color: #000 !important;
 }
 
-/* Navbar links stay white */
+/* Navbar links stay white, no underline */
 .navbar a {
     color: white !important;
     text-decoration: none !important;
@@ -55,7 +55,7 @@ td.dash-cell.focused {
     background-color: #e8e8e8 !important;
 }
 
-/* Underline name always to signal clickability */
-#summary-table td[data-dash-column="name"] {
-    text-decoration: underline;
+/* Table cells should not have link underline */
+#summary-table td {
+    text-decoration: none !important;
 }

@@ -197,7 +197,7 @@ modal = dbc.Modal([
 summary_page = html.Div([
     header,
     filter_bar,
-    html.Div('Click any MP name to see a full breakdown of their outside employment.',
+    html.Div(html.Em('Click any MP name to see a full breakdown of their outside employment.'),
              style={'padding': '0 20px 5px', 'fontSize': 12, 'color': '#666',
                     'fontFamily': 'Arial'}),
     html.Div([table], style={'padding': '0 20px 20px 20px'}),
