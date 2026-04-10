@@ -243,7 +243,7 @@ as Excel files from the [Summary](/) page.
 MP Second Jobs was built and is maintained by **Andrew Messios**.
 
 - For the full codebase and methodology, visit the
-  [GitHub](https://github.com/messiosa/mpsecondjobs).
+  [GitHub](https://github.com/messiosa/mpsecondjobs_v2).
 
 - To learn more about the Register, see
   [Parliament's guidance](https://publications.parliament.uk/pa/cm201719/cmcode/1882/188204.htm#_idTextAnchor017).
