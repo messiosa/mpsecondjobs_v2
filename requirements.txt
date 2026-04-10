@@ -1,0 +1,7 @@
+dash
+dash-bootstrap-components
+gunicorn
+openpyxl
+pandas
+python-dateutil
+requests

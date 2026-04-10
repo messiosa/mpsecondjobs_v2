@@ -1,0 +1,36 @@
+/* Hide sort arrows on the summary column */
+.dash-header[data-dash-column="summary"] .column-header--sort {
+    display: none;
+}
+
+/* Hide the toggle columns button */
+.show-hide {
+    display: none !important;
+}
+
+/* Change cell selection highlight from red to light grey */
+.dash-cell.focused {
+    background-color: #e8e8e8 !important;
+    outline: none !important;
+}
+.dash-cell.cell--selected {
+    background-color: #e8e8e8 !important;
+}
+td.dash-cell.focused {
+    outline: 1px solid #999 !important;
+    background-color: #e8e8e8 !important;
+}
+
+/* Make modal close button lighter and more visible on dark background */
+.modal-header .btn-close {
+    filter: invert(1);
+    opacity: 0.7;
+}
+.modal-header .btn-close:hover {
+    opacity: 1;
+}
+
+/* Row hover effect to signal clickability */
+#summary-table tr:hover td {
+    background-color: #e8e8e8 !important;
+}
