@@ -12,10 +12,9 @@ a:hover {
     color: #000 !important;
 }
 
-/* Navbar links stay white, no underline */
+/* Navbar links stay white */
 .navbar a {
     color: white !important;
-    text-decoration: none !important;
 }
 
 /* Hide sort arrows on the summary column */
