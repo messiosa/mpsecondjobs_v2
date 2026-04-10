@@ -217,6 +217,12 @@ it can be difficult to find and understand. That's why MP Second Jobs was
 created — to make this important democratic resource more accessible and
 insightful to members of the public, journalists, and researchers.
 
+MP Second Jobs was built and is maintained by **Andrew Messios**. The
+project was cited in
+[written evidence](https://committees.parliament.uk/writtenevidence/138264/pdf/)
+by former MP Peter Bradley to the 2025 Committee on Standards inquiry
+into MPs' outside interests and employment.
+
 ---
 
 **How it works**
@@ -242,8 +248,6 @@ as Excel files from the Summary page.
 ---
 
 **Links**
-
-MP Second Jobs was built and is maintained by **Andrew Messios**.
 
 - For the full codebase and methodology, visit the
   [GitHub](https://github.com/messiosa/mpsecondjobs_v2).
