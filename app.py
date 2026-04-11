@@ -18,6 +18,7 @@ app = Dash(
     title='mpsecondjobs.org',
 )
 server = app.server
+app._favicon = 'favicon.png'
 
 # ── Load data ──────────────────────────────────────────────────────────
 df = pd.read_csv('mp_session_summary.csv')
@@ -48,7 +49,7 @@ def make_navbar(pathname='/'):
     summary_cls = 'navbar-link-active' if pathname == '/' else 'navbar-link-inactive'
     about_cls = 'navbar-link-active' if pathname == '/about' else 'navbar-link-inactive'
     return html.Div([
-        html.Img(src='assets/mpsj_logo.jpg',
+        html.Img(src='assets/mpsj_logo.png',
                 style={'height': '30px', 'margin': '0 30px 0 0', 'filter': 'invert(1)'}),
         dcc.Link('Summary', href='/', className=summary_cls,
                  style={'margin': '0 15px 0 0', 'fontSize': 16}),
@@ -183,7 +184,7 @@ table = dash_table.DataTable(
         {'name': 'Total Earnings', 'id': 'total_earnings', 'type': 'numeric',
          'format': Format(precision=2, scheme=Scheme.fixed)
          .group(True).symbol(Symbol.yes).symbol_prefix('£').symbol_suffix('')},
-        {'name': 'Total Hours Worked', 'id': 'total_hours', 'type': 'numeric',
+        {'name': 'Total Hours', 'id': 'total_hours', 'type': 'numeric',
          'format': Format(precision=1, scheme=Scheme.fixed).group(True)},
         {'name': 'Summary', 'id': 'summary', 'type': 'text'},
     ],
