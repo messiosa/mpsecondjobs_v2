@@ -4,7 +4,7 @@ body {
 }
 
 a {
-    color: #383838 !important;
+    color: #000000 !important;
     text-decoration: underline !important;
 }
 
@@ -12,9 +12,15 @@ a:hover {
     color: #000 !important;
 }
 
-/* Navbar links stay white */
+/* Navbar links */
 .navbar a {
     color: white !important;
+}
+.navbar-link-active {
+    text-decoration: underline !important;
+}
+.navbar-link-inactive {
+    text-decoration: none !important;
 }
 
 /* Hide sort arrows on the summary column */
@@ -57,4 +63,54 @@ td.dash-cell.focused {
 /* Table cells should not have link underline */
 #summary-table td {
     text-decoration: none !important;
+}
+
+/* Search input padding for icon */
+.search-input input {
+    padding-left: 32px !important;
+}
+
+/* Table scroll hint — gradient fade on right edge */
+.table-wrapper {
+    position: relative;
+}
+.table-wrapper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30px;
+    height: 100%;
+    background: linear-gradient(to right, transparent, rgba(255,255,255,0.8));
+    pointer-events: none;
+    display: none;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    /* Stack header stats vertically */
+    .header-stats-line {
+        flex-wrap: wrap !important;
+    }
+    .header-stats-line > span {
+        display: block;
+    }
+
+    /* Stack filter bar */
+    .filter-bar {
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 8px;
+    }
+
+    /* Show scroll hint on table */
+    .table-wrapper::after {
+        display: block;
+    }
+
+    /* Modal takes full width */
+    .modal-dialog {
+        margin: 0 !important;
+        max-width: 100% !important;
+    }
 }
