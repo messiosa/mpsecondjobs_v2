@@ -1,0 +1,396 @@
+mnis_id,member,employer,role,nature_of_business,address,row_type,date_display,earnings,hours,rate_display
+8,Baroness May of Maidenhead,Washington Speakers Bureau,Speaking engagements,a speaking agency,"1663 Prince Street, Alexandria, VA 22314",adhoc,5 Mar 2024,103000.0,5.0,
+14,Lord Redwood,Charles Stanley,Global Strategist,"A UK investment manager owned by Raymond James, a quoted US company","55 Bishopsgate, London EC2N 3AS",ongoing,1 Jan 2024 – ongoing,80800.0,246.4,"£49,187/quarterly · 50h/monthly"
+14,Lord Redwood,Charles Stanley,Global Strategist,"A UK investment manager owned by Raymond James, a quoted US company","55 Bishopsgate, London EC2N 3AS",adhoc,22 Dec 2023,25000.0,0.0,
+14,Lord Redwood,EPIC Private Equity,Member of the Advisory Board,,"Audrey House, 16-20 Ely Place, London EC1N 6SN",ongoing,1 Oct 2016 – ongoing,2806.3,6.7,"£5,000/yearly · 3h/quarterly (paid quarterly)"
+40,Sir Bernard Jenkin,Aros Corporation Ltd,Writing articles in Diplomat Magazine,,,adhoc,12 Apr 2024,325.0,2.0,
+40,Sir Bernard Jenkin,Aros Corporation Ltd,Writing articles in Diplomat Magazine,,,adhoc,25 Nov 2023,325.0,2.0,
+103,Sir Paul Beresford,Beresford Dental Practice Limited,Part-time dental surgeon,,"207 Upper Richmond Road, SW15 6SQ",ongoing,22 Aug 2017 – ongoing,3367.56,168.4,£500/monthly · 300h/yearly (in the form of drawings)
+111,Nick Gibb,Education Development Trust,Consultant,EDT is a global education consultancy,"Highbridge House, 16-18 Duke Street, Reading RG1 4BU",ongoing,1 May 2024 – 31 May 2025,1238.6,6.7,"£1,300/monthly · 7h/monthly"
+114,Tim Loughton,Eden & Partners Ltd,Training sessions for NHS professionals,,"Snells Cottage, The Green, Newick, Lewes BN8 4LA",adhoc,20 Mar 2024,400.0,2.0,
+114,Tim Loughton,National Fostering Group (formerly the Outcomes First Group),Adviser to and Chairman of the Quality and Safeguarding Board,,"Atria, Spa Road, Bolton, BL1 4AG",ongoing,7 Nov 2023 – ongoing,20766.6,80.8,"£37,000/yearly · 12h/monthly"
+114,Tim Loughton,Consensus Support Services Ltd,Chairman of the Quality and Safeguarding Board,,"654 The Crescent, Colchester Business Park, Colchester CO4 9YQ",ongoing,1 Jun 2021 – ongoing,14031.49,67.4,"£25,000/yearly · 10h/monthly (paid monthly)"
+140,Baroness Hodge of Barking,"Royal Holloway, University of London",Chair of University Council (RHUL),,"Egham Hill, Egham, TW20 0EX",adhoc,5 Apr 2024,20000.0,114.0,
+146,Barry Gardiner,World Climate Initiative,Consultancy advice,,"8th Floor, 167 Fleet Street, London EC3A 2EA",ongoing,22 Nov 2022 – ongoing,18521.56,80.8,"£33,000/yearly · 12h/monthly (paid monthly)"
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,15 May 2024,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,30 Apr 2024,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,16 Apr 2024,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,3 Apr 2024,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,19 Mar 2024,250.0,4.0,
+152,Sir Iain Duncan Smith,News UK and Ireland,Writing articles,,"1 London Bridge Street, London SE1 9GF",adhoc,23 Feb 2024,750.0,4.0,
+152,Sir Iain Duncan Smith,Reach Shared Services Ltd,Writing articles,,"3rd Floor, 5 St Paul’s Square, Liverpool L3 9SJ",adhoc,20 Feb 2024,200.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,20 Feb 2024,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,6 Feb 2024,250.0,4.0,
+152,Sir Iain Duncan Smith,Associated Newspapers Ltd (ANMFS Ltd),Writing articles,,"Northcliffe House, 2 Derry Street, London W8 5TT",adhoc,18 Jan 2024,600.0,4.0,
+152,Sir Iain Duncan Smith,Reach Shared Services Ltd,Writing articles,,"3rd Floor, 5 St Paul’s Square, Liverpool L3 9SJ",adhoc,4 Jan 2024,400.0,4.0,
+152,Sir Iain Duncan Smith,News UK and Ireland,Writing articles,,"1 London Bridge Street, London SE1 9GF",adhoc,27 Dec 2023,750.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,27 Dec 2023,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,12 Dec 2023,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,12 Dec 2023,250.0,4.0,
+152,Sir Iain Duncan Smith,Daily Telegraph and Sunday Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,14 Nov 2023,250.0,4.0,
+206,Mr David Lammy,Independent Talent Group,Presenting radio shows on LBC,,"40 Whitfield Street, Bloomsbury, London W1T 2RH",adhoc,26 Apr 2024,5460.0,22.5,
+206,Mr David Lammy,Independent Talent Group,Presenting radio shows on LBC,,"40 Whitfield Street, Bloomsbury, London W1T 2RH",adhoc,26 Mar 2024,3150.0,13.5,
+206,Mr David Lammy,Independent Talent Group,Presenting radio shows on LBC,,"40 Whitfield Street, Bloomsbury, London W1T 2RH",adhoc,23 Feb 2024,5460.0,22.5,
+206,Mr David Lammy,Independent Talent Group,Presenting radio shows on LBC,,"40 Whitfield Street, Bloomsbury, London W1T 2RH",adhoc,30 Jan 2024,9030.0,36.0,
+206,Mr David Lammy,Independent Talent Group,Presenting radio shows on LBC,,"40 Whitfield Street, Bloomsbury, London W1T 2RH",adhoc,5 Jan 2024,2100.0,9.0,
+206,Mr David Lammy,The Speaking Office,Speaking engagements,,"Unit 31 Highbury Studios, 10 Hornsey Street, London N7 8EL",adhoc,18 Dec 2023,5100.0,4.0,
+206,Mr David Lammy,The Speaking Office,Speaking engagements,,"Unit 31 Highbury Studios, 10 Hornsey Street, London N7 8EL",adhoc,6 Dec 2023,5100.0,4.0,
+206,Mr David Lammy,Independent Talent Group,Presenting radio shows on LBC,,"40 Whitfield Street, Bloomsbury, London W1T 2RH",adhoc,24 Nov 2023,5250.0,22.5,
+206,Mr David Lammy,The Speaking Office,Speaking engagements,,"Unit 31 Highbury Studios, 10 Hornsey Street, London N7 8EL",adhoc,21 Nov 2023,5100.0,4.0,
+223,Sir Liam Fox,Future Industry Association,"Speaking at the International Futures Industry Conference in Boca Raton, Florida, United States (9-11 March 2024)",,"2001 K Street, NW, Suite 725, North Tower, Washington, DC, 20006",adhoc,28 Feb 2024,7700.0,1.0,
+223,Sir Liam Fox,Reach Shared Services Ltd,Writing articles,,"Third Floor, 5 St Paul's Square, Liverpool L3 9SJ",adhoc,16 Feb 2024,400.0,2.0,
+234,Sir Gary Streeter,Rentplus-UK Ltd,Non-executive director,A company which provides rent to buy housing for young people,"II Exchange Square, 21 North Fourth Street, Milton Keynes MK9 1HL",ongoing,1 Jan 2024 – ongoing,14537.99,98.6,"£35,400/yearly · 20h/monthly"
+249,Sir Geoffrey Clifton-Brown,East Beckham partnership,Partner,Arable farming,Norfolk,ongoing,7 Nov 2023 – ongoing,9833.26,0.0,"£17,520/yearly (The use of a car belonging to the partnership (value as a...)"
+288,Sir William Cash,William Cash & Co,Solicitor,,"The Tithe Barn, Upton Cressett, nr Bridgnorth, WV16 6UH",adhoc,18 Mar 2024,15165.0,30.0,
+350,Sir John Hayes,Reach Plc (Reach Shared Services Ltd),Columnist,,"5 St Pauls Sq., Liverpool L3 9SJ",adhoc,1 Dec 2023,400.0,2.0,
+350,Sir John Hayes,University of Bolton,Part-time professor in Political Studies,,"Deane Road, Bolton BL3 5AB",ongoing,1 Apr 2020 – ongoing,23412.15,16.8,"£41,714/yearly · 30h/yearly (paid monthly)"
+350,Sir John Hayes,BB Energy Trading Ltd,Strategic Adviser,an international energy company trading worldwide,"12-14 Ansdell St, London W8 5BN",ongoing,1 Sep 2018 – ongoing,28062.97,50.5,"£50,000/yearly · 90h/yearly"
+350,Sir John Hayes,HBSA,President,technical and vocational education,"Burton and South Derbyshire College, Lichfield Road, Burton on Trent DE14 3RL",ongoing,29 May 2018 – ongoing,16837.78,28.1,"£30,000/yearly · 50h/yearly (paid quarterly (previously £20,000))"
+373,David Davis,THI Investments UK Ltd,"Member of the Advisory Board of THI Holdings GmbH, Eberhardstrasse 65, 70173 Stuttgart",an investment company,"17 Grosvenor Street, London W1K 4QG",ongoing,1 Dec 2019 – ongoing,19026.69,9.0,"£33,900/yearly · 16h/yearly (paid quarterly)"
+420,Yvette Cooper,Conville and Walsh,Writing a book,literary agent,"Haymarket House, London SW1Y 4SP",adhoc,30 Apr 2024,925.44,0.0,
+435,Lord Brady of Altrincham,Bonnier Books,Writing a book,Publisher of Books and the company will be publishing my forthcoming book in November 2024,"Suite 7, The Plaza, 535 Kings Road, London SW10 0SZ",adhoc,28 Mar 2024,37500.0,40.0,
+435,Lord Brady of Altrincham,Medannex Limited,Non-executive director,Scottish biopharmaceutical company,"1 Lochrin Square, Foutainbridge, Edinburgh EH3 9QA",ongoing,1 Feb 2024 – 31 Jan 2026,11728.95,2.6,"£36,000/yearly · 8h/yearly"
+435,Lord Brady of Altrincham,Global Banking School Ltd and Metagedu Apprenticeships Ltd,Adviser on Communications and Strategy,,"891 Greenford Road, Greenford, London UB6 0HE",ongoing,1 Mar 2023 – ongoing,20205.34,20.2,"£3,000/monthly · 3h/monthly"
+435,Lord Brady of Altrincham,Young Chef Young Waiter,Adviser,,"Langdon Court Ltd, Down Thomas, Wembury, Plymouth PLY 0DY",ongoing,1 Jan 2023 – ongoing,6735.11,13.5,"£1,000/monthly · 2h/monthly"
+435,Lord Brady of Altrincham,Primary Access and Research,Member of Advisory Board,,"64 Eaton Place, London SW1X 8AT",ongoing,1 Jun 2022 – ongoing,3367.56,6.7,"£6,000/yearly · 1h/monthly (Paid monthly)"
+435,Lord Brady of Altrincham,Political Engagement Ltd (previously Dods Group Limited),Chair of the Parliamentary Advisory Board (formerly Editor) of the House Magazine,,"11th Floor, Millbank, London SW1P 4QP",ongoing,15 Feb 2021 – ongoing,14592.74,67.4,"£26,000/yearly · 10h/monthly (paid monthly)"
+1390,Mr John Baron,FT’s Investors' Chronicle,Columnist,,"Number One Southwark Bridge, London SE1 9HL",ongoing,1 Sep 2023 – ongoing,6735.11,20.2,"£1,000/monthly · 3h/monthly"
+1390,Mr John Baron,Baron and Grant Investment Management Limited,Chair Investment Committee of Baron and Grant Investment Management Limited,a fund management company,"66 Lincoln’s Inn Fields, London WC2A 3LH",ongoing,30 Apr 2021 – ongoing,3367.56,33.7,£500/monthly · 5h/monthly
+1397,Hywel Williams,ITV Entertainment,Appearances on Christmas University Challenge,,"Trafford Wharf Road, Trafford M17 1FZ",adhoc,4 Dec 2023,1200.0,18.0,
+1406,Jon Cruddas,Richmond University (the American International University in London),Adjunct Associate Professor in British Government and Politics for one semester,,Queen’s Road Richmond-upon-Thames TW10 6JP,adhoc,24 Nov 2023,416.94,4.0,
+1413,Lord Grayling,Hutchison Ports Europe,Strategic Adviser,,"5 Hester Road, London SW11 4AN",ongoing,1 Sep 2020 – 31 Aug 2024,56125.94,204.8,"£100,000/yearly · 7h/weekly (paid quarterly)"
+1425,Mr Jonathan Djanogly,Pembroke VCT plc,Chairman,A venture capital trust,"3 Cadogan Gate, London SW1X 0AS",ongoing,10 Nov 2020 – ongoing,16837.78,18.0,"£30,000/yearly · 32h/yearly"
+1428,Sir Bill Wiggin,Emerging Asset Management Ltd,Managing Director and Board Director,,"58 Par-la-Ville Road, 4th floor, Vallis Building, Hamilton, Bermuda",adhoc,26 Apr 2024,3796.38,0.0,
+1428,Sir Bill Wiggin,Allpay Limited; payment collection,Non-executive director,,"Fortis et Fides, Whitestone Business park, Whitestone, Hereford HR1 3SE",adhoc,24 Apr 2024,550.0,4.0,
+1428,Sir Bill Wiggin,Emerging Asset Management Ltd,Managing Director and Board Director,,"58 Par-la-Ville Road, 4th floor, Vallis Building, Hamilton, Bermuda",adhoc,23 Jan 2024,27644.5,0.0,
+1428,Sir Bill Wiggin,Allpay Limited; payment collection,Non-executive director,,"Fortis et Fides, Whitestone Business park, Whitestone, Hereford HR1 3SE",ongoing,12 Nov 2021 – ongoing,2245.04,5.6,"£4,000/yearly · 10h/yearly"
+1428,Sir Bill Wiggin,Emerging Asset Management Ltd,Managing Director and Board Director,,"58 Par-la-Ville Road, 4th floor, Vallis Building, Hamilton, Bermuda",ongoing,1 Jan 2019 – ongoing,27580.29,234.1,"£49,140/yearly · 8h/weekly ((£4,095 monthly))"
+1442,Mr Alistair Carmichael,Dods Group Ltd,Member of the Advisory Board of the House Magazine,,"11th Floor, The Shard, 32 London Bridge St, London SE1 9SG",adhoc,30 Jan 2024,1650.0,11.0,
+1446,Chris Bryant,United Agents,Writing and adapting a book,,"12-26 Lexington Street, London W1F 0LE",adhoc,25 Apr 2024,1500.0,4.0,
+1446,Chris Bryant,United Agents,Writing and adapting a book,,"12-26 Lexington Street, London W1F 0LE",adhoc,25 Mar 2024,2871.17,0.0,
+1446,Chris Bryant,United Agents,Writing and adapting a book,,"12-26 Lexington Street, London W1F 0LE",adhoc,13 Mar 2024,50000.0,10.0,
+1446,Chris Bryant,United Agents,Writing and adapting a book,,"12-26 Lexington Street, London W1F 0LE",adhoc,1 Mar 2024,10000.0,0.0,
+1446,Chris Bryant,United Agents,Writing and adapting a book,,"12-26 Lexington Street, London W1F 0LE",adhoc,19 Jan 2024,1000.0,12.0,
+1446,Chris Bryant,United Agents,Writing and adapting a book,,"12-26 Lexington Street, London W1F 0LE",adhoc,9 Nov 2023,8000.0,0.0,
+1466,Dr Andrew Murrison,Royal Naval Reserve,Surgeon Commander,,"HMS President, St Katherine’s Dock, London",adhoc,28 Mar 2024,743.81,18.0,
+1466,Dr Andrew Murrison,Royal Naval Reserve,Surgeon Commander,,"HMS President, St Katherine’s Dock, London",adhoc,29 Feb 2024,146.76,4.0,
+1466,Dr Andrew Murrison,Royal Naval Reserve,Surgeon Commander,,"HMS President, St Katherine’s Dock, London",adhoc,31 Jan 2024,1859.55,50.0,
+1466,Dr Andrew Murrison,Royal Naval Reserve,Surgeon Commander,,"HMS President, St Katherine’s Dock, London",adhoc,31 Dec 2023,966.97,28.0,
+1489,Dawn Butler,Multicultural Marketing Consultancy,Appearing on a podcast,,"311 Regents Park Road, London N3  1DP",adhoc,11 Jan 2024,1000.0,4.0,
+1489,Dawn Butler,Eden & Partners Ltd,Delivering a development programme session,,"50 Broadway, London SW1H 0RG",adhoc,29 Nov 2023,350.0,4.0,
+1489,Dawn Butler,DC Thompson Ltd,Appearing on a panel,,"Meadowside, 2 Albert Square, Dundee DD1 1DD",adhoc,11 Nov 2023,500.0,5.0,
+1502,Mr David Jones,Associated Newspapers Ltd,Writing an article,,"Northcliffe House, 2 Derry Street, London W8 5TT",adhoc,25 Jan 2024,1000.0,3.0,
+1508,Sir Geoffrey Cox,Bortoft Bell Solicitors,Legal services,,"2 John Street, London WC1N 2ES",adhoc,30 Apr 2024,10000.0,10.0,
+1508,Sir Geoffrey Cox,CGS Solicitors,Legal services,,"4th Floor, 1 Minster Court, Mincing Lane, London EC3R 7AA",adhoc,30 Apr 2024,5000.0,5.0,
+1508,Sir Geoffrey Cox,Director of Public Prosecutions Mauritius,Legal Services,,"Level 10, 16 Garden Tower Building, Poudriere St, Port Louis, Mauritius",adhoc,14 Mar 2024,11000.0,14.0,
+1508,Sir Geoffrey Cox,Khan Partnership Solicitors,Legal services,,"48-49 Russell Square, London WC1B 4JP",adhoc,29 Feb 2024,5000.0,5.0,
+1508,Sir Geoffrey Cox,Khan Partnership Solicitors,Legal services,,"48-49 Russell Square, London WC1B 4JP",adhoc,15 Feb 2024,1500.0,1.5,
+1508,Sir Geoffrey Cox,Khan Partnership Solicitors,Legal services,,"48-49 Russell Square, London WC1B 4JP",adhoc,15 Feb 2024,5000.0,5.0,
+1508,Sir Geoffrey Cox,Withers LLP,Consultant Global Counsel,,"20 Old Bailey, London EC4M 7AN",adhoc,15 Feb 2024,58826.33,50.0,
+1508,Sir Geoffrey Cox,Khan Partnership Solicitors,Legal services,,"48-49 Russell Square, London WC1B 4JP",adhoc,31 Jan 2024,33000.0,30.0,
+1508,Sir Geoffrey Cox,Khan Partnership Solicitors,Legal services,,"48-49 Russell Square, London WC1B 4JP",adhoc,29 Dec 2023,6000.0,6.0,
+1508,Sir Geoffrey Cox,Withers LLP,Consultant Global Counsel,,"20 Old Bailey, London EC4M 7AN",adhoc,29 Dec 2023,58826.32,50.0,
+1508,Sir Geoffrey Cox,Withers LLP,Consultant Global Counsel,,"20 Old Bailey, London EC4M 7AN",adhoc,30 Nov 2023,58826.32,50.0,
+1508,Sir Geoffrey Cox,Withers LLP,Consultant Global Counsel,,"20 Old Bailey, London EC4M 7AN",ongoing,1 Nov 2023 – ongoing,164673.51,202.1,"£293,400/yearly · 30h/monthly ((plus VAT) paid quarterly for international legal services)"
+1528,Sir Mike Penning,Tenacious Holdings Limited,Non-Executive Director,,"47 Charles Street, London W1J 5EL",ongoing,1 Oct 2022 – ongoing,33675.56,121.2,"£5,000/monthly · 18h/monthly"
+1528,Sir Mike Penning,Law Abroad Ltd,Non-Executive Director,a legal company operating in the UK and abroad,"79 Marlowes, Hemel Hempstead HP1 1LF.",ongoing,1 Dec 2020 – ongoing,5051.33,10.1,£750/monthly · 1.5h/monthly (for providing lay advice to the Chairman and the Board of...)
+1528,Sir Mike Penning,JT Consultancy Ltd,Non-Executive Director,,Collingdon Street. Luton LU1 1RX.,ongoing,1 Sep 2019 – ongoing,19639.59,67.4,"£2,916/monthly · 10h/monthly"
+1539,Mr Ben Wallace,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,19 Mar 2024,4000.0,8.0,
+1539,Mr Ben Wallace,Bruin Capital Holdings,Speaking event on 29 February 2024,,"7 Renaissance Square, 2nd Floor, White Plains, NY 10601",adhoc,1 Mar 2024,15740.0,1.0,
+1539,Mr Ben Wallace,This is Spoken,Speaking events,,"Somerset House, The Strand, London WC2R 1LA",adhoc,15 Feb 2024,12750.0,1.0,
+1539,Mr Ben Wallace,This is Spoken,Speaking events,,"Somerset House, The Strand, London WC2R 1LA",adhoc,22 Jan 2024,19125.0,1.0,
+1539,Mr Ben Wallace,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,9 Jan 2024,4000.0,8.0,
+1539,Mr Ben Wallace,N.M. Rothschild & Sons Ltd,Speaking at event on 16 November 2023,,"New Court, St Swithin’s lane, London EC4N 8AL",adhoc,4 Dec 2023,50000.0,3.0,
+1539,Mr Ben Wallace,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,28 Nov 2023,2000.0,10.0,
+1539,Mr Ben Wallace,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,28 Nov 2023,2000.0,10.0,
+1539,Mr Ben Wallace,This is Spoken,Speaking event,,"Somerset House, The Strand, London WC2R 1LA",adhoc,14 Nov 2023,12500.0,1.0,
+1539,Mr Ben Wallace,This is Spoken,Speaking event,,"Somerset House, The Strand, London WC2R 1LA",adhoc,14 Nov 2023,10200.0,1.0,
+1542,Philip Dunne,Reaction Engines Ltd,"Non-Executive Director, and Chair from 13 July 2023",engineering technology developer,"Building F5, Culham Science Centre, Abingdon OX14 3DB",ongoing,13 Jul 2023 – ongoing,33675.56,107.8,"£5,000/monthly · 16h/monthly"
+1559,Sir James Duddridge,British Council for Africa,Speaking Engagement,"promotes African business, trade and commerce","59-60, Russell Square, London WC1B 4HP",adhoc,29 Mar 2024,2000.0,3.0,
+1559,Sir James Duddridge,TEXEM,Speaking engagements,"consultants and executive development, specialising in Africa","2nd Floor, Berkeley Square House, London W1J 6BD",adhoc,22 Feb 2024,1000.0,1.0,
+1559,Sir James Duddridge,TEXEM,Speaking engagements,"consultants and executive development, specialising in Africa","2nd Floor, Berkeley Square House, London W1J 6BD",adhoc,14 Feb 2024,1200.0,1.0,
+1560,Sir Jeremy Wright,Bird and Bird LLP,Legal consultant,Law firm,"12 New Fetter Lane, London EC4A 1JP",ongoing,6 Oct 2022 – 7 May 2024,23917.86,207.8,"£4,000/monthly · 8h/weekly"
+1565,Sir Philip Davies,GB News,Presenting TV shows,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,25 Apr 2024,2916.67,18.0,
+1565,Sir Philip Davies,Merkur Gaming UK Limited,Consultant providing strategic advice,Arcade Games,"Fortune House, Northgate Terrace, Newark On Trent, Nottinghamshire, England, NG24 2EU",ongoing,15 Apr 2024 – ongoing,1478.44,3.0,"£1,000/monthly · 2h/monthly"
+1565,Sir Philip Davies,GB News,Presenting TV shows,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,28 Mar 2024,2916.67,28.0,
+1565,Sir Philip Davies,GB News,Presenting TV shows,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,29 Feb 2024,2916.67,20.0,
+1565,Sir Philip Davies,GB News,Presenting TV shows,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,25 Jan 2024,4781.71,28.0,
+1565,Sir Philip Davies,GB News,Presenting TV shows,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,21 Dec 2023,3781.71,20.0,
+1565,Sir Philip Davies,Reach Group Limited,Writing columns,,"21st Floor, One Canada Square, Canary Wharf, London E14 5AP",adhoc,5 Dec 2023,666.5,4.0,
+1565,Sir Philip Davies,Reach Group Limited,Writing columns,,"21st Floor, One Canada Square, Canary Wharf, London E14 5AP",adhoc,5 Dec 2023,350.0,2.0,
+1565,Sir Philip Davies,GB News,Presenting TV shows,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,30 Nov 2023,3770.84,28.0,
+1565,Sir Philip Davies,The National Pawnbroking Association,Consultant on regulation and public policy,,"2nd Floor, 289 Green Lanes, Palmers Green, London N13 4XS",ongoing,1 Sep 2023 – ongoing,10102.67,67.4,"£1,500/monthly · 10h/monthly"
+1576,Mark Pritchard,Redway AG,Marketing advice,an engineering and technical services company and a client of MAP Advisory Ltd,"Oberer Graben 4-6, 9001, St Gallen, Switzerland",adhoc,16 Feb 2024,4000.0,12.0,
+1576,Mark Pritchard,Redway AG,Marketing advice,an engineering and technical services company and a client of MAP Advisory Ltd,"Oberer Graben 4-6, 9001, St Gallen, Switzerland",adhoc,17 Jan 2024,4000.0,12.0,
+1576,Mark Pritchard,ATS Group,Marketing advisory services,an industrial manufacturing and technology business,"1550, No. 17 Industrial Zone Vizbegovo, Skopje, North Macedonia",ongoing,1 Nov 2023 – ongoing,60616.02,67.4,"£9,000/monthly · 10h/monthly (First payment received on 6 December 2023)"
+1576,Mark Pritchard,"Linden Energy Holdings, Inc",Lead Marketing Counsel and Vice Chairman of the Advisory Board,an energy development company and a client of MAP Advisory Ltd,"700 Milam Street, Suite 1300, Houston, Texas, 77002, USA",ongoing,26 Aug 2022 – 31 Jan 2024,13683.78,33.5,"£4,900/monthly · 12h/monthly"
+1576,Mark Pritchard,Strategeast,Strategic marketing counsel,a non-profit organisation which promotes the rule of law in Eurasian countries through the digital economy and a client of MAP Advisory Ltd,"1900K Street NW, Suite 100, Washington DC 20006, USA",ongoing,1 Apr 2022 – ongoing,14031.46,67.4,"£2,083/monthly · 10h/monthly"
+1578,Greg Clark,Norton Rose Fullbright LLP,Giving speeches,,"3 More London Riverside, London SE1 2AQ",adhoc,6 Dec 2023,2000.0,1.5,
+1585,Stephen Hammond,Darwin Alternative Investments,Strategic Advisor,an investment company,"Empire House, 175 Piccadilly, London W1J 9RN",ongoing,1 Jan 2021 – ongoing,33675.56,56.1,"£60,000/yearly · 100h/yearly (paid monthly for providing political advice on business a...)"
+1593,Sammy Wilson,YouGov,Surveys,,"50 Featherstone Street, London EC1Y 8RT",adhoc,25 Nov 2023,100.0,0.2,
+1601,Sir Robert Neill,Greenbank Capital Inc,Non-executive Director,,"100 King Street West, Suite 5700, Toronto, Ontario M5X 1C7, Canada",ongoing,4 Jan 2023 – ongoing,20205.34,40.4,"£3,000/monthly · 6h/monthly"
+1601,Sir Robert Neill,The Hemming Group Ltd,Writing articles,a client of RJMN Ltd,"32 Vauxhall Bridge Road, London SW1V 2SS",ongoing,1 Jul 2018 – ongoing,1347.02,10.1,£200/monthly · 1.5h/monthly (for a regular article in the Municipal Journal.)
+1609,Chloe Smith,JLA Speakers Ltd,Speaking at a panel event,,"14 Berners Street, London W1T 3LI",adhoc,29 Feb 2024,1500.0,3.0,
+3912,Richard Fuller,Impero Holdings Ltd,Director,a software company,"2 Tollhouse Hill, Nottingham NG1 5FS",adhoc,31 Mar 2024,4750.0,0.0,
+3912,Richard Fuller,Investcorp Securities Ltd,Advisory Director,a venture capital company,"48 Grosvenor St, London W1K 3HW",ongoing,1 Apr 2023 – ongoing,14031.49,67.4,"£25,000/yearly · 10h/monthly (paid quarterly)"
+3912,Richard Fuller,Impero Holdings Ltd,Director,a software company,"2 Tollhouse Hill, Nottingham NG1 5FS",ongoing,1 Apr 2023 – 31 Mar 2024,7939.77,23.8,"£20,000/yearly · 5h/monthly"
+3930,Caroline Lucas,A M Heath & Company Limited,Writing a book,literary agent,"6 Warwick Court, London WC1R 5DJ",adhoc,22 Apr 2024,1879.87,0.0,
+3930,Caroline Lucas,A M Heath & Company Limited,Writing a book,literary agent,"6 Warwick Court, London WC1R 5DJ",adhoc,6 Feb 2024,2050.0,450.0,
+3932,Dr Dan Poulter,Norfolk and Suffolk NHS Foundation Trust,NHS Consultant Psychiatrist,,"Hellesdon Hospital, Drayton High Road, Norwich Norfolk NR6 5BE",adhoc,25 Mar 2024,5000.0,0.0,
+3932,Dr Dan Poulter,Norfolk and Suffolk NHS Foundation Trust,NHS Consultant Psychiatrist,,"Hellesdon Hospital, Drayton High Road, Norwich Norfolk NR6 5BE",ongoing,12 Feb 2024 – ongoing,25678.72,248.4,"£7,237/monthly · 840h/yearly"
+3932,Dr Dan Poulter,A London NHS Foundation Trust together with the London Deanery,NHS psychiatrist,,"Stewart House, 32 Russell Square, London WC1B 5DN",ongoing,1 Sep 2023 – 6 Feb 2024,12327.3,179.4,"£4,123/monthly · 720h/yearly (first paid on 22 September 2023)"
+3932,Dr Dan Poulter,Myogenes,Non-executive Director,a genetic testing company with specialist expertise in mental health and psychiatric pharmacogenetics testing.,"The Kinetic Business Centre, Theobald St, Borehamwood, Hertfordshire WD6 4PJ",ongoing,1 Jun 2023 – ongoing,13470.23,67.4,"£2,000/monthly · 10h/monthly"
+3934,George Eustice,Tremap Ltd,Attending policy discussions,Global tree database,"Drinnick Office, St George's Road, Nanpean, St Austell PL26 7XR",adhoc,30 Apr 2024,1000.0,4.0,
+3934,George Eustice,Hornsearle Property Investments Ltd,Attending meetings and providing written advice,social housing investor,"Reedham House, 31 King Street, Manchester M3 2PJ",adhoc,26 Apr 2024,4167.0,24.0,
+3934,George Eustice,Alpine Fire Engineers Ltd,Attending meetings and providing advice,commercial fire suppression or sprinkler systems,"Alpine House, Hollins Brook Park, Bury BL9 8RN",adhoc,2 Apr 2024,5000.0,20.0,
+3934,George Eustice,Tremap Ltd,Attending policy discussions,Global tree database,"Drinnick Office, St George's Road, Nanpean, St Austell PL26 7XR",adhoc,28 Mar 2024,1000.0,4.0,
+3934,George Eustice,Hornsearle Property Investments Ltd,Attending meetings and providing written advice,social housing investor,"Reedham House, 31 King Street, Manchester M3 2PJ",adhoc,22 Mar 2024,4167.0,24.0,
+3934,George Eustice,Alpine Fire Engineers Ltd,Attending meetings and providing advice,commercial fire suppression or sprinkler systems,"Alpine House, Hollins Brook Park, Bury BL9 8RN",adhoc,1 Mar 2024,5000.0,20.0,
+3934,George Eustice,Tremap Ltd,Attending policy discussions,Global tree database,"Drinnick Office, St George's Road, Nanpean, St Austell PL26 7XR",adhoc,29 Feb 2024,1000.0,4.0,
+3934,George Eustice,Hornsearle Property Investments Ltd,Attending meetings and providing written advice,social housing investor,"Reedham House, 31 King Street, Manchester M3 2PJ",adhoc,16 Feb 2024,8334.0,48.0,
+3934,George Eustice,Tremap Ltd,Attending policy discussions,Global tree database,"Drinnick Office, St George's Road, Nanpean, St Austell PL26 7XR",adhoc,31 Jan 2024,1000.0,4.0,
+3934,George Eustice,Tremap Ltd,Attending policy discussions,Global tree database,"Drinnick Office, St George's Road, Nanpean, St Austell PL26 7XR",adhoc,15 Dec 2023,1000.0,4.0,
+3934,George Eustice,International Fugitive Emissions Abatement Association,Chairman,aims to reduce emissions,"31 Turnaware Road, Falmouth TR11 4PH",ongoing,1 Dec 2023 – ongoing,8919.92,47.6,"£1,500/monthly · 8h/monthly"
+3934,George Eustice,Tremap Ltd,Attending policy discussions,Global tree database,"Drinnick Office, St George's Road, Nanpean, St Austell PL26 7XR",adhoc,22 Nov 2023,1000.0,4.0,
+3942,John Stevenson,Bendles,Solicitor,,"22 Portland Square, Carlisle CA1 1PE",ongoing,1 Oct 2023 – ongoing,16837.78,303.1,"£2,500/monthly · 45h/monthly"
+3945,Sir Sajid Javid,Centricus Partners LP through its UK subsidiary Centricus Services UK Limited,Adviser,global investment firm,"IFC 5, St. Helier, Jersey JE1 1ST",ongoing_parent,,211909.66,84.8,
+3945,Sir Sajid Javid,Centricus Partners LP through its UK subsidiary Centricus Services UK Limited,Adviser,global investment firm,"IFC 5, St. Helier, Jersey JE1 1ST",ongoing_child,6 Apr 2024 – ongoing,88706.37,35.5,"£50,000/monthly · 20h/monthly"
+3945,Sir Sajid Javid,Centricus Partners LP through its UK subsidiary Centricus Services UK Limited,Adviser,global investment firm,"IFC 5, St. Helier, Jersey JE1 1ST",ongoing_child,6 Mar 2023 – 5 Apr 2024,123203.29,49.3,"£25,000/monthly · 10h/monthly (for providing advice on global economic outlook, geo-poli...)"
+3945,Sir Sajid Javid,via SJ Office Ltd,Speaking and related engagements,,"20-22 Wenlock Road, London N1 7GU",ongoing,7 Oct 2022 – ongoing,11225.19,80.8,"£20,000/yearly · 12h/monthly (paid to me by SJ Office Ltd.)"
+3950,Dame Tracey Crouch,British Racing’s Horse Welfare Board,Independent Non-Executive Director,,"British Horseracing Authority, 75 High Holborn, London WC1V 6LX.",ongoing,24 Apr 2019 – 23 Apr 2025,15154.0,67.4,"£27,000/yearly · 10h/monthly (plus reimbursed expenses)"
+3958,Fiona Bruce,Fiona Bruce and Co LLP,Solicitor's practice,,"Justice House, 3 Grappenhall Rd, Stockton Heath, Warrington WA4 2AH",adhoc,31 Jan 2024,150358.27,0.0,
+3985,Robert Halfon,Conservative Friends of Israel,Speaking engagement,,"16 Great Queen Street, London WC2B 5AH",adhoc,7 Nov 2023,500.0,2.0,
+3987,Rehman Chishti,The Religious Freedom Institute (RFI USA),Guest speaker at the International Military Chiefs of Chaplains Conference in Stuttgart on 8 February 2024.,,"316 Pennsylvania Ave, STE 501, Washington DC 20003, United States",adhoc,5 Mar 2024,1530.4,0.0,
+3987,Rehman Chishti,The Religious Freedom Institute (RFI USA),Guest speaker at the International Military Chiefs of Chaplains Conference in Stuttgart on 8 February 2024.,,"316 Pennsylvania Ave, STE 501, Washington DC 20003, United States",adhoc,5 Mar 2024,1162.6,5.0,
+3991,Jesse Norman,Peters Fraser & Dunlop Ltd,Writing Books,Book Publisher,"55 New Oxford Street, London WC1A 1BS",adhoc,18 Apr 2024,293.54,0.0,
+3991,Jesse Norman,Peters Fraser & Dunlop Ltd,Writing Books,Book Publisher,"55 New Oxford Street, London WC1A 1BS",adhoc,18 Apr 2024,112.14,0.0,
+3991,Jesse Norman,Peters Fraser & Dunlop Ltd,Writing Books,Book Publisher,"55 New Oxford Street, London WC1A 1BS",adhoc,11 Apr 2024,563.78,0.0,
+3991,Jesse Norman,Peters Fraser & Dunlop Ltd,Writing Books,Book Publisher,"55 New Oxford Street, London WC1A 1BS",adhoc,11 Apr 2024,725.21,0.0,
+3997,Sir Alec Shelbrooke,News UK,Appearances on Talk TV,,"PO Box 151, Peterborough PE7 8YT",adhoc,23 Nov 2023,50.0,0.2,
+4007,Dominic Raab,World Gold Council,Consultant,international trade association,"7th Floor, 15 Fetter Lane, London EC4A 1BW",adhoc,9 May 2024,39996.0,66.0,
+4007,Dominic Raab,Appian Capital LLP,"Senior Strategic Advisor on Global Affairs, acting on a consultancy basis",a private equity firm specialising in investment in critical minerals,"45 Pall Mall, St. James's, London SW1Y 5JG",ongoing,17 Jan 2024 – ongoing,43290.9,193.7,"£118,000/yearly · 44h/monthly (plus any applicable VAT. In addition, I will receive 0.1%...)"
+4007,Dominic Raab,Daily Telegraph,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,27 Dec 2023,285.0,3.0,
+4007,Dominic Raab,Daily Telegraph,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,14 Nov 2023,700.0,6.0,
+4008,Dame Caroline Dinenage,LNT Care Developments Group,Independent Non-Executive Director,Residential care home developer and constructor,"Helios 47, Isabella Road, Garforth LS25 2DY",ongoing,4 Apr 2023 – ongoing,28062.97,168.4,"£50,000/yearly · 25h/monthly (paid monthly, plus reimbursed expenses)"
+4009,Sir Brandon Lewis,LetterOne Holdings SA,Chair of the Advisory Council on Corporate Governance,an international investment business,"Devonshire House, One Mayfair Place, London W1J 8AJ",ongoing,25 Oct 2023 – ongoing,140314.85,234.1,"£250,000/yearly · 8h/weekly"
+4009,Sir Brandon Lewis,Civitas Investment Management,Consultant,,"25 Maddox Street, London W1S 2QN",ongoing,14 Jun 2023 – ongoing,16837.78,26.9,"£30,000/yearly · 4h/monthly (paid monthly)"
+4009,Sir Brandon Lewis,FM Conway,Adviser,"transportation, environment and the public realm","Conway House, Vestry Road, Sevenoaks TN14 5EL",ongoing,17 Apr 2023 – ongoing,33675.56,53.9,"£60,000/yearly · 8h/monthly (paid monthly)"
+4009,Sir Brandon Lewis,Thakeham Homes,Adviser to the CEO and Board,,"Thakeham House, Summers Place, Stane Street, Billingshurst RH14 9GN",ongoing,11 Apr 2023 – ongoing,33675.56,53.9,"£60,000/yearly · 8h/monthly (paid monthly)"
+4009,Sir Brandon Lewis,Woodlands Schools Ltd,Director,,"428 Rayleigh Road, Hutton, Brentwood CM13 1SD",ongoing,27 Jan 2023 – ongoing,5612.59,26.9,"£10,000/yearly · 4h/monthly (in the form of the use of a company car)"
+4014,Lord Sharma,EQT AB,"Senior Advisor providing advice on geopolitical and economic trends and strategic projects, and supporting discussions with current and potential portfolio companies.",private markets investment firm,"Regeringsgatan 25, SE-11153, Stockholm, Sweden",ongoing,1 Mar 2024 – ongoing,32032.85,29.6,"£32,500/quarterly · 30h/quarterly"
+4014,Lord Sharma,"Matson, Driscoll & Damico UK LLP",Speaking engagements,,"Marlow House, 1A Lloyd's Ave, London EC3N 3AA",adhoc,9 Jan 2024,12500.0,6.0,
+4014,Lord Sharma,"Matson, Driscoll & Damico UK LLP",Speaking engagements,,"Marlow House, 1A Lloyd's Ave, London EC3N 3AA",adhoc,19 Dec 2023,12500.0,0.0,
+4014,Lord Sharma,Chartwell Partners Ltd,Speaking engagement,,"Unit 28, Colonnade Walk, 123 Buckingham Palace Road, London SW1W 9SH",adhoc,11 Dec 2023,12000.0,3.0,
+4014,Lord Sharma,Skandinaviska Enskilda Banken AB Publ,"Adviser on geopolitical and economic trends, green finance, carbon transition and strategic issues",,"Kungstradgardsgatan 8, Stockholm 10640, Sweden",ongoing,1 Sep 2023 – ongoing,112251.88,107.8,"£50,000/quarterly · 48h/quarterly"
+4017,Penny Mordaunt,Beaverbrook Foundation,Speaking engagement,,"19 Crown Passage, London SW1Y 6PP",adhoc,9 Dec 2023,4000.0,2.5,
+4020,George Freeman,Eastern Powerhouse,Chair of Science and Technology Advisory Board,,"42 Tavistock Street, London WC2E 7PB",ongoing,25 Mar 2024 – ongoing,3252.57,17.3,"£1,500/monthly · 8h/monthly (for helping identify private sector members and developin...)"
+4040,Chris Evans,David Luxton,Royalties for a book,Literary Agent,"First Floor, Jebsen House, 53-61 High Street, Ruislip, Middlesex, England, HA4 7BD",adhoc,4 Apr 2024,461.0,0.0,
+4052,Mark Pawsey,Foodservice Packaging Association,Chairman,,"B7 Elmbridge Court, Cheltenham Road East, Gloucester GL3 1JZ",ongoing,1 Apr 2020 – 1 Feb 2024,7063.66,90.4,"£2,500/monthly · 32h/monthly"
+4055,Sir Mark Spencer,CH Spencer and Son,Partner,Farming,"Spring Lane Farm, Mapperley Plains, Notts",ongoing,7 Nov 2023 – ongoing,5612.59,56.1,"£10,000/yearly · 100h/yearly (Payment in the form of telephone, heating and council tax...)"
+4060,Sir Jake Berry,News UK,Regular panellist and host for Talk TV,,"1 London Bridge Place, London SE1 9GF",adhoc,21 May 2024,2400.0,8.0,
+4060,Sir Jake Berry,Reach Shared Services,Writing articles,,"1st Floor, 5 St Paul’s Square, Liverpool L3 9SJ",adhoc,30 Apr 2024,504.0,2.0,
+4060,Sir Jake Berry,News UK,Regular panellist and host for Talk TV,,"1 London Bridge Place, London SE1 9GF",adhoc,22 Apr 2024,6000.0,12.0,
+4060,Sir Jake Berry,Reach Shared Services,Writing articles,,"1st Floor, 5 St Paul’s Square, Liverpool L3 9SJ",adhoc,28 Mar 2024,504.0,4.0,
+4060,Sir Jake Berry,News UK,Regular panellist and host for Talk TV,,"1 London Bridge Place, London SE1 9GF",adhoc,21 Mar 2024,3600.0,12.0,
+4060,Sir Jake Berry,Reach Shared Services,Writing articles,,"1st Floor, 5 St Paul’s Square, Liverpool L3 9SJ",adhoc,8 Mar 2024,2016.0,4.0,
+4060,Sir Jake Berry,News UK,Regular panellist and host for Talk TV,,"1 London Bridge Place, London SE1 9GF",adhoc,21 Feb 2024,7200.0,20.0,
+4060,Sir Jake Berry,News UK,Regular panellist and host for Talk TV,,"1 London Bridge Place, London SE1 9GF",adhoc,22 Jan 2024,13200.0,44.0,
+4060,Sir Jake Berry,News UK,Radio appearances,,"1 London Bridge Street, London SE1 9GF",adhoc,21 Dec 2023,7500.0,19.0,
+4060,Sir Jake Berry,News UK,Regular panellist and host for Talk TV,,"1 London Bridge Place, London SE1 9GF",adhoc,27 Nov 2023,360.0,2.0,
+4065,Dame Jackie Doyle-Price,Civil Service College,Training,training provider,"25 Queen Anne’s Gate, St James’s, London SW1H 9BU",adhoc,15 Apr 2024,500.0,6.0,
+4070,Matt Hancock,Biteback Publishing,Writing a book,book publishers,"c/o BCA, 21 Marina Court, Castle Street, Hull HU1 1TJ",adhoc,26 Apr 2024,5527.11,0.0,
+4074,Mark Garnier,Super Sharp Space Systems,Independent Non-executive Director,Low orbit Earth observation telescopes,"G0 Stirling House, Cambridge Innovation Park, Denney End Road, Waterbeach CB25 9PB",ongoing,1 Sep 2023 – ongoing,4490.08,28.1,"£8,000/yearly · 50h/yearly"
+4079,Julian Sturdy,G E Sturdy and Son,Partner,A farming partnership,"Westgate Farm, North Deighton, Wetherby, LS22 4EN",ongoing,7 Nov 2023 – ongoing,3367.56,117.1,£500/monthly · 4h/weekly
+4084,Esther McVey,Reach Group Limited,Writing articles,,"21st Floor, One Canada Square, Canary Wharf, London E14 5AP",adhoc,5 Dec 2023,666.5,4.0,
+4084,Esther McVey,GB News,Presenting TV programmes,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,30 Nov 2023,3415.03,9.0,
+4086,Alun Cairns,Elite Partners Capital Pte Ltd,Adviser,global property investment firm,"8 Temasek Boulevard, Suntec Tower 3 #37-02, Singapore S038988",ongoing,1 Jun 2021 – ongoing,16837.78,47.1,"£30,000/yearly · 84h/yearly (for providing strategic advice to the Board)"
+4088,Ms Stella Creasy,Guardian news and media,Writing articles,,"90 York Way, London N1 9GU",adhoc,29 Feb 2024,409.2,8.0,
+4088,Ms Stella Creasy,Guardian news and media,Writing articles,,"90 York Way, London N1 9GU",adhoc,11 Jan 2024,261.72,4.0,
+4093,Stephen McPartland,TrustPay AI Systems Ltd,Non-executive consulting Chairman,,"45 Albemarle Street, London W15 4JL",ongoing,29 Jan 2024 – ongoing,40082.14,60.1,"£10,000/monthly · 15h/monthly"
+4093,Stephen McPartland,Furniture Village Limited,Non-executive director,Furniture retailer,"258 Bath Road, Slough, Berkshire SL1 4DX",ongoing,31 Oct 2022 – ongoing,28062.99,67.4,"£4,167/monthly · 10h/monthly"
+4097,Elizabeth Truss,Springer Nature Ltd,Royalty payments,,"The Campus, 4 Crinan Street, London N1 9XW",adhoc,1 May 2024,201.55,0.0,
+4097,Elizabeth Truss,Coulthwaite Group Ltd,Speaking engagements,,,adhoc,30 Apr 2024,5054.14,2.0,
+4097,Elizabeth Truss,Coulthwaite Group Ltd,Speaking engagements,,,adhoc,30 Apr 2024,19321.68,3.0,
+4097,Elizabeth Truss,Coulthwaite Group Ltd,Speaking engagements,,,adhoc,25 Apr 2024,14328.0,3.0,
+4097,Elizabeth Truss,Coulthwaite Group Ltd,Speaking engagements,,,adhoc,25 Mar 2024,7573.6,2.0,
+4097,Elizabeth Truss,Javelin Literary Agency,Writing a book,,"203 South Union Street,  Alexandria, Virginia 22314, USA",adhoc,7 Mar 2024,1512.88,0.0,
+4097,Elizabeth Truss,Chartwell Speakers,Speaking engagements,,"Colonnade Walk, 123 Buckingham Place Road, London SW1W 9SH",adhoc,14 Dec 2023,30000.0,2.0,
+4099,Sir Jacob Rees-Mogg,GB News,Presenting a TV programme,,"2 Swan Lane, London EC4R 3TT",adhoc,25 Apr 2024,29166.67,40.0,
+4099,Sir Jacob Rees-Mogg,GB News,Presenting a TV programme,,"2 Swan Lane, London EC4R 3TT",adhoc,28 Mar 2024,29166.67,40.0,
+4099,Sir Jacob Rees-Mogg,GB News,Presenting a TV programme,,"2 Swan Lane, London EC4R 3TT",adhoc,29 Feb 2024,29166.67,40.0,
+4099,Sir Jacob Rees-Mogg,GB News,Presenting a TV programme,,"2 Swan Lane, London EC4R 3TT",adhoc,25 Jan 2024,29166.67,40.0,
+4099,Sir Jacob Rees-Mogg,GB News,Presenting a TV programme,,"2 Swan Lane, London EC4R 3TT",adhoc,21 Dec 2023,29166.67,40.0,
+4099,Sir Jacob Rees-Mogg,GB News,Presenting a TV programme,,"2 Swan Lane, London EC4R 3TT",adhoc,30 Nov 2023,29166.67,40.0,
+4106,Sir Robert Buckland,Foundry Chambers,Tenant,Barristers' Chambers,"Ground Floor, 5-9 Quality Court, London WC2A 1HP",adhoc,30 Apr 2024,6700.0,8.0,
+4106,Sir Robert Buckland,DAC Beachcroft LLP,Member of the Policy Unit,Solicitors' firm,"25 Walbrook, London EC4N 8AF",ongoing,22 Jan 2024 – ongoing,17659.15,50.9,"£4,167/monthly · 12h/monthly"
+4106,Sir Robert Buckland,The Telegraph,Writing articles,,"111 Buckingham Palace Rd, London SW1W 0DT",adhoc,15 Nov 2023,100.0,1.5,
+4106,Sir Robert Buckland,Chamber U.K. Services,Chairing meetings and conferences,,"34 Smith Square, London SW1P 3HL",adhoc,9 Nov 2023,500.0,2.0,
+4106,Sir Robert Buckland,BSV Claims Ltd,Member of the Independent Advisory Board,,"Second Floor, 168 Shoreditch High St, London E1 6RA",ongoing,1 Apr 2023 – ongoing,11225.19,40.4,"£5,000/quarterly · 6h/monthly"
+4106,Sir Robert Buckland,Payne Hicks Beach Solicitors,Senior Counsel,,"10 New Square, Lincoln's Inn, London WC2A 3QG",ongoing,1 Mar 2023 – ongoing,26940.45,215.5,"£4,000/monthly · 32h/monthly"
+4108,Sir Gavin Williamson,RTC Education Ltd,Adviser,A provider of undergraduate and postgraduate education programmes to UK and international students.,"153 Great Titchfield Street, London W1W 5BD",ongoing,21 Feb 2023 – ongoing,28062.97,44.9,"£50,000/yearly · 80h/yearly (paid quarterly)"
+4110,Dame Karen Bradley,Political Engagement Limited,Member of the Advisory Board of the House Magazine,,"11th Floor, Millbank Tower, 21-24 Millbank, London SW1P 4QP",adhoc,14 May 2024,150.0,2.0,
+4110,Dame Karen Bradley,Political Engagement Limited,Member of the Advisory Board of the House Magazine,,"11th Floor, Millbank Tower, 21-24 Millbank, London SW1P 4QP",adhoc,17 Apr 2024,150.0,2.0,
+4110,Dame Karen Bradley,Political Engagement Limited,Member of the Advisory Board of the House Magazine,,"11th Floor, Millbank Tower, 21-24 Millbank, London SW1P 4QP",adhoc,13 Mar 2024,150.0,1.0,
+4110,Dame Karen Bradley,Political Engagement Limited,Member of the Advisory Board of the House Magazine,,"11th Floor, Millbank Tower, 21-24 Millbank, London SW1P 4QP",adhoc,21 Feb 2024,150.0,1.0,
+4110,Dame Karen Bradley,Political Engagement Limited,Member of the Advisory Board of the House Magazine,,"11th Floor, Millbank Tower, 21-24 Millbank, London SW1P 4QP",adhoc,17 Jan 2024,150.0,1.0,
+4110,Dame Karen Bradley,Political Engagement Limited,Member of the Advisory Board of the House Magazine,,"11th Floor, Millbank Tower, 21-24 Millbank, London SW1P 4QP",adhoc,13 Dec 2023,150.0,1.0,
+4110,Dame Karen Bradley,Political Engagement Limited,Member of the Advisory Board of the House Magazine,,"11th Floor, Millbank Tower, 21-24 Millbank, London SW1P 4QP",adhoc,22 Nov 2023,150.0,1.0,
+4113,Nadhim Zahawi,The Blair Partnership,Writing a book,literary agent,"PO BOX 7828, London W1A 4GE",adhoc,17 Nov 2023,6150.0,50.0,
+4116,Sir Michael Ellis,Blackfords LLP,Senior Consultant,legal firm,"20 Old Bailey, London, EC4M 7AN",ongoing,15 Apr 2024 – ongoing,6160.16,5.9,"£50,000/yearly · 4h/monthly"
+4116,Sir Michael Ellis,Candey Limited,Senior Adviser providing general consultancy advice,,"Lincoln's Inn, 8 Stone Buildings, London WC2A 3TA",ongoing,1 Nov 2023 – ongoing,39288.16,107.8,"£70,000/yearly · 16h/monthly"
+4125,Catherine McKinnell,XTX Markets,Speaking Engagements,,"R7, 14-18 Handyside Street, London N1C 4DN",adhoc,26 Apr 2024,1000.0,1.0,
+4133,Andrew Bridgen,Reclaim Party,Political consultancy/advice,,"32 St James’s Street, London SW1A 1HD",adhoc,11 Dec 2023,1500.0,8.0,
+4133,Andrew Bridgen,Reclaim Party,Political consultancy/advice,,"32 St James’s Street, London SW1A 1HD",adhoc,14 Nov 2023,1500.0,8.0,
+4134,Kwasi Kwarteng,Energy Voice,Writing an article,,"5th Floor, Marischal Square, Aberdeen AB10 1BL",adhoc,8 Feb 2024,500.0,6.0,
+4134,Kwasi Kwarteng,Daily Telegraph,Writing an article,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,6 Feb 2024,700.0,6.0,
+4134,Kwasi Kwarteng,Fortescue Future Industries International Pty Ltd,Consultancy advice,green technology and energy company,"87 Adelaide Terrace, East Perth, WA 6004 Australia",adhoc,20 Jan 2024,35000.0,20.0,
+4134,Kwasi Kwarteng,GB News,Guest appearances,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,22 Dec 2023,1000.0,6.0,
+4134,Kwasi Kwarteng,Talk TV,Guest appearances,,"The News Building, 1 London Bridge Street, London SE1 9GF",adhoc,21 Dec 2023,500.0,3.0,
+4134,Kwasi Kwarteng,Renewable UK,Speaking engagement,renewable energy trade association,"The Conduit, 6 Langley Street, London WC2H 9JA",adhoc,21 Dec 2023,6000.0,10.0,
+4134,Kwasi Kwarteng,Daily Telegraph,Writing an article,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,12 Dec 2023,400.0,4.0,
+4134,Kwasi Kwarteng,GB News,Guest appearances,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,4 Dec 2023,1000.0,6.0,
+4134,Kwasi Kwarteng,GB News,Guest appearances,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,9 Nov 2023,1000.0,3.0,
+4263,Lucy Powell,ITV Studios,Broadcast appearance,,"Orange Tower, MediaCity UK, Manchester M50 2HE",adhoc,18 Nov 2023,600.0,4.0,
+4370,Jess Phillips,United Agents,Writing books,,"Lexington House, 12-26 Lexington St, Soho, London W1F 0LE",adhoc,4 Apr 2024,12300.0,100.0,
+4370,Jess Phillips,Public Lending Right,Library copyright fees,,"British Library, Boston Spa, Wetherby LS23 7BQ",adhoc,22 Mar 2024,430.0,0.0,
+4370,Jess Phillips,Authors' Licensing and Collecting Society (ALCS),Royalties,Collection of copyright payments for authors,"6th Floor, International House, 1 St Katharine's Way, London E1W 1UN",adhoc,19 Mar 2024,1046.0,0.0,
+4370,Jess Phillips,Guardian News & Media Ltd,Writing articles,,"Kings Place, 90 York Way, London N1P 2AP",adhoc,7 Mar 2024,354.28,1.0,
+4370,Jess Phillips,News UK & Ireland,Broadcast appearances,,"1 London Bridge St, London SE1 9GF",adhoc,23 Nov 2023,300.0,1.0,
+4414,Paul Scully,GB News,Interviews with GB News,News Channel,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,15 Feb 2024,150.0,1.0,
+4414,Paul Scully,GB News,Interviews with GB News,News Channel,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,15 Feb 2024,80.0,0.5,
+4414,Paul Scully,GB News,Interviews with GB News,News Channel,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,31 Jan 2024,100.0,0.5,
+4414,Paul Scully,GB News,Interviews with GB News,News Channel,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,19 Jan 2024,150.0,2.0,
+4419,Joanna Cherry,Newsquest Ltd,Columnist for the National,,"Loudwater Mill, Station Road, High Wycombe HP10 9TY",ongoing,3 Sep 2020 – ongoing,4389.61,117.1,£150/weekly · 4h/weekly ((payment is per column written).)
+4421,Mhairi Black,Newsquest Media (Herald & Times) Ltd,Newspaper columnist for The National,,"200 Renfield St, Glasgow G2 3QB",ongoing,1 Jan 2020 – ongoing,2020.53,40.4,£300/monthly · 6h/monthly
+4423,Will Quince,Ministry of Defence,Army Reserve Officer,,"Whitehall, London SW1A 2HB",adhoc,30 Apr 2024,538.0,0.0,
+4423,Will Quince,Ministry of Defence,Army Reserve Officer,,"Whitehall, London SW1A 2HB",adhoc,29 Feb 2024,484.85,60.0,
+4423,Will Quince,Ministry of Defence,Army Reserve Officer,,"Whitehall, London SW1A 2HB",adhoc,31 Jan 2024,1092.49,150.0,
+4423,Will Quince,Ministry of Defence,Army Reserve Officer,,"Whitehall, London SW1A 2HB",adhoc,30 Nov 2023,1468.95,140.0,
+4453,Tommy Sheppard,Newsquest Herald & Times Group,Columnist for the Sunday National,,"200 Renfield Street, Glasgow G2 3QB",ongoing,7 Jul 2023 – ongoing,2194.8,43.9,£75/weekly · 1.5h/weekly ((£150 is paid fortnightly))
+4458,Conor McGinn,Primary Access and Research,Speaking,,"64 Eaton Place, London SW1X 8AT",adhoc,23 Jan 2024,1000.0,1.5,
+4458,Conor McGinn,Jockey Club Racecourses Ltd,Unpaid Member of the Racecourse Committee of Haydock Park Racecourse,,"75 High Holborn, London WC1V 6LD",ongoing,1 Jan 2022 – ongoing,1122.52,16.8,"£2,000/yearly · 30h/yearly (as a taxable set amount in lieu of any expenses incurred.)"
+4475,Suella Braverman,Telegraph Media Group Ltd,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,28 May 2024,3000.0,12.0,
+4475,Suella Braverman,Telegraph Media Group Ltd,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,8 May 2024,3000.0,12.0,
+4475,Suella Braverman,Coulthwaite Group Pte Ltd (trading as CWG Speakers),Speaking engagements,,"21 Woodlands Close, #08- 44, Primz Bizhub Singapore 737854",adhoc,11 Apr 2024,25452.4,6.0,
+4475,Suella Braverman,Telegraph Media Group Ltd,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,11 Apr 2024,1500.0,6.0,
+4475,Suella Braverman,Telegraph Media Group Ltd,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,3 Apr 2024,4500.0,18.0,
+4475,Suella Braverman,Coulthwaite Group Pte Ltd (trading as CWG Speakers),Speaking engagements,,"21 Woodlands Close, #08- 44, Primz Bizhub Singapore 737854",adhoc,23 Feb 2024,20520.6,6.0,
+4476,Dr James Davies,Cheshire and Wirral Partnership NHS Foundation Trust,"Out of hours NHS GP work at Ellesmere Port Hospital, 114 Chester Road, Ellesmere Port CH65 6SG",,"Liverpool Road, Chester CH2 1BQ",adhoc,27 Feb 2024,450.0,5.0,
+4476,Dr James Davies,Laurel Bank Surgery,NHS GP work,,"Old Hall St, Malpas SY14 8PS",adhoc,23 Feb 2024,1250.0,18.5,
+4476,Dr James Davies,Cheshire and Wirral Partnership NHS Foundation Trust,"Out of hours NHS GP work at Ellesmere Port Hospital, 114 Chester Road, Ellesmere Port CH65 6SG",,"Liverpool Road, Chester CH2 1BQ",adhoc,21 Dec 2023,270.0,3.0,
+4476,Dr James Davies,Cheshire and Wirral Partnership NHS Foundation Trust,"Out of hours NHS GP work at Ellesmere Port Hospital, 114 Chester Road, Ellesmere Port CH65 6SG",,"Liverpool Road, Chester CH2 1BQ",adhoc,27 Nov 2023,1215.0,13.5,
+4476,Dr James Davies,Betsi Cadwaladr University Health Board,"NHS GP work at Panton Surgery Halkyn Rd, Holywell CH8 7TZ",,"Panton Surgery Halkyn Rd, Holywell CH8 7TZ",adhoc,23 Nov 2023,300.0,4.0,
+4479,Nick Thomas-Symonds,The Wylie Agency (UK) Ltd,Royalties for books,,"17 Bedford Square, London WC1B 3JA",adhoc,23 Apr 2024,2094.18,0.0,
+4490,Dame Andrea Jenkyns,GB News Limited,Appearances on GB News,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,15 Mar 2024,500.0,4.0,
+4490,Dame Andrea Jenkyns,GB News Limited,Appearances on GB News,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,31 Jan 2024,500.0,4.0,
+4490,Dame Andrea Jenkyns,GB News Limited,Appearances on GB News,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,5 Jan 2024,750.0,6.0,
+4490,Dame Andrea Jenkyns,GB News Limited,Appearances on GB News,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,21 Dec 2023,750.0,12.0,
+4492,Maria Caulfield,Royal Marsden Hospital,Registered nurse,,"Fulham Road, London SW1 6JJ",adhoc,16 Feb 2024,235.0,12.0,
+4492,Maria Caulfield,Royal Marsden Hospital,Registered nurse,,"Fulham Road, London SW1 6JJ",adhoc,19 Jan 2024,226.31,13.0,
+4492,Maria Caulfield,Royal Marsden Hospital,Registered nurse,,"Fulham Road, London SW1 6JJ",adhoc,10 Nov 2023,235.0,12.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,14 May 2024,150.0,0.8,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,11 Apr 2024,150.0,0.5,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,5 Mar 2024,150.0,0.8,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,16 Jan 2024,500.0,2.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,9 Jan 2024,500.0,2.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,2 Jan 2024,500.0,2.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,19 Dec 2023,500.0,2.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,12 Dec 2023,500.0,2.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,28 Nov 2023,500.0,2.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,21 Nov 2023,500.0,2.0,
+4498,Mr Ranil Jayawardena,GB News Limited,Guest appearances,,"Riverbank House, 2 Swan Lane, London, EC4R 3TT",adhoc,15 Nov 2023,500.0,2.0,
+4498,Mr Ranil Jayawardena,Ringshall Limited,Senior Adviser,a business support and holding company,"c/o The Office of Ranil Jayawardena, The Bury, Odiham, Hampshire, RG29 1NB",ongoing,17 May 2023 – ongoing,3367.56,58.5,£500/monthly · 2h/weekly (for providing strategic business and geopolitical advice.)
+4500,Clive Lewis,Persephonica Ltd,Recording podcast episodes,,"DS House, 306 High Street, Croydon CR0 1NG",adhoc,5 Dec 2023,1000.0,0.0,
+4504,Wes Streeting,United Agents Ltd,Writing a book and recording an audio book,,"12-26 Lexington Street, London W1F 0LE",adhoc,8 May 2024,8200.0,0.0,
+4514,Sir Keir Starmer,Authors’ Licensing and Collecting Society,Copyright payments for books written before my election to Parliament,,"4 Battle Bridge Lane, London SE1 2HX",adhoc,20 Mar 2024,540.18,0.0,
+4514,Sir Keir Starmer,Birnberg Pierce,Legal services provided before my election to Parliament,,"14 Inverness Street, London NW1 7HJ",adhoc,16 Jan 2024,927.96,0.0,
+4529,Lord Mackinlay of Richborough,Associated Newspapers Ltd,Writing an article,,"Northcliffe House, 2 Derry Street, Kensington, London W8 5TT",adhoc,21 Dec 2023,750.0,1.0,
+4529,Lord Mackinlay of Richborough,Beak Kemmenoe,Partner,Chartered Accountants and Chartered Tax Advisers,"1-3 Manor Road, Chatham, Kent ME4 6AE",ongoing,7 Nov 2023 – ongoing,13470.23,134.7,"£2,000/monthly · 20h/monthly (estimated profit-share allocation)"
+4573,Dr Rosena Allin-Khan,ITV PLC,Appearances on ITV's This Morning show,,"ITV White City, 201 Wood Lane, London W12 7RU",adhoc,3 May 2024,300.0,2.5,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,1 May 2024,665.0,10.0,
+4573,Dr Rosena Allin-Khan,ITV PLC,Appearances on ITV's This Morning show,,"ITV White City, 201 Wood Lane, London W12 7RU",adhoc,26 Apr 2024,600.0,5.0,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,24 Apr 2024,595.0,9.0,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,24 Apr 2024,665.0,10.0,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,21 Feb 2024,665.0,10.0,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,31 Jan 2024,665.0,10.0,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,25 Jan 2024,665.0,10.0,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,6 Dec 2023,735.0,11.0,
+4573,Dr Rosena Allin-Khan,St George's Hospital NHS Trust,Doctor,,"Blackshaw Road, London SW17 0QT",adhoc,29 Nov 2023,665.0,10.0,
+4592,Dr Caroline Johnson,North West Anglia NHS Foundation Trust,Consultant paediatrician,,"Peterborough City Hospital, Bretton Gate, Bretton, PE3 9GZ",ongoing,25 Sep 2023 – ongoing,12612.17,188.6,"£22,471/yearly · 336h/yearly (backdated to April 2023)"
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,11 May 2024,108.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,4 May 2024,108.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,27 Apr 2024,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,20 Apr 2024,108.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,13 Apr 2024,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,30 Mar 2024,108.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,23 Mar 2024,184.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,17 Mar 2024,225.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,24 Feb 2024,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,17 Feb 2024,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,10 Feb 2024,108.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,3 Feb 2024,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,27 Jan 2024,90.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,20 Jan 2024,300.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,6 Jan 2024,90.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,30 Dec 2023,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,23 Dec 2023,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,16 Dec 2023,108.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,9 Dec 2023,108.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,3 Dec 2023,450.0,1.5,
+4627,Douglas Ross,The Scottish Football Association,Assistant referee,,"Hampden Park, Glasgow G42 9AY",adhoc,25 Nov 2023,450.0,1.5,
+4627,Douglas Ross,Scottish Parliament,Member of the Scottish Parliament,,Edinburgh EH99 1SP,ongoing,1 Apr 2023 – ongoing,12658.64,1077.6,"£1,880/monthly · 160h/monthly"
+4639,Bim Afolami,Talk TV,Regular panellist,,"1 London Bridge Street, London SE1 9GF",adhoc,21 Nov 2023,150.0,0.5,
+4656,Layla Moran,CSA Catapult Innovation Centre,Non-executive Director,a centre established to help the UK become a global leader in compound semiconductors,"Imperial Park Innovation Centre, Celtic Way, Newport NP10 8BE",ongoing,30 Jun 2023 – ongoing,9518.4,67.4,"£16,959/yearly · 120h/yearly (paid quarterly and backdated to 1 April 2023)"
+4659,Andrew Lewer,Route to Zero,Non-executive director,,"86-90, Paul St, London EC2A 4NE",ongoing,4 Apr 2024 – ongoing,1839.84,11.0,"£1,000/monthly · 6h/monthly"
+4663,Ben Bradley,Nottinghamshire County Council,"Councillor, and from 10 May 2021, Leader of the Council",,"West Bridgford, Nottingham NG2 7QP",ongoing,1 Apr 2022 – ongoing,29841.94,877.9,"£53,170/yearly · 30h/weekly ((paid monthly) comprised of my salary as Council Leader (...)"
+4676,Marsha De Cordova,Fight for Sight,Being a member of a grants application panel,,"18 Mansell Street, London E1 8AA",adhoc,15 Mar 2024,1000.0,10.0,
+4676,Marsha De Cordova,Fight for Sight,Being a member of a grants application panel,,"18 Mansell Street, London E1 8AA",adhoc,12 Jan 2024,1000.0,10.0,
+4681,Bob Seely,Associated Newspapers Ltd,Newspaper articles,,"Northcliffe House, 2 Derry Street, London W8 5TT",adhoc,13 Feb 2024,750.0,2.0,
+4681,Bob Seely,Associated Newspapers Ltd,Newspaper articles,,"Northcliffe House, 2 Derry Street, London W8 5TT",adhoc,11 Jan 2024,1800.0,3.0,
+4737,Dehenna Davison,ITN,Contributing to and being a panellist on shows,,"200 Grays Inn Road, London WC1X 8XZ",adhoc,10 May 2024,221.4,1.0,
+4737,Dehenna Davison,ITN,Contributing to and being a panellist on shows,,"200 Grays Inn Road, London WC1X 8XZ",adhoc,10 May 2024,221.4,1.0,
+4737,Dehenna Davison,News UK & Ireland Limited,"Writing articles, giving interviews and presenting",,"1 London Bridge Street, London SE1 9GF",adhoc,26 Apr 2024,450.0,1.0,
+4737,Dehenna Davison,News UK & Ireland Limited,"Writing articles, giving interviews and presenting",,"1 London Bridge Street, London SE1 9GF",adhoc,22 Apr 2024,100.0,1.0,
+4737,Dehenna Davison,Hat Trick Productions Ltd,Contributing to a show,,"33 Oval Road, London NW1 7EA",adhoc,15 Dec 2023,1500.0,2.0,
+4737,Dehenna Davison,ITN,Contributing to and being a panellist on shows,,"200 Grays Inn Road, London WC1X 8XZ",adhoc,15 Dec 2023,570.0,4.0,
+4737,Dehenna Davison,News UK & Ireland Limited,"Writing articles, giving interviews and presenting",,"1 London Bridge Street, London SE1 9GF",adhoc,23 Nov 2023,250.0,1.0,
+4737,Dehenna Davison,News UK & Ireland Limited,"Writing articles, giving interviews and presenting",,"1 London Bridge Street, London SE1 9GF",adhoc,23 Nov 2023,550.0,1.0,
+4739,Jerome Mayhew,Walsingham Estate Management Ltd,Non-executive director,property and land maintenance and development,"Estate Office, 10 Common Place, Walsingham, NR22 6BP",ongoing,7 Nov 2023 – ongoing,1683.78,11.2,"£3,000/yearly · 20h/yearly"
+4741,Nickie Aiken,"Total Politics, Political Engagement Limited",Member of the House Magazine Advisory Board,,"11th Floor, 21-24 Millbank Tower, London SW1P 4QP",adhoc,28 Mar 2024,300.0,2.5,
+4741,Nickie Aiken,"Total Politics, Political Engagement Limited",Member of the House Magazine Advisory Board,,"11th Floor, 21-24 Millbank Tower, London SW1P 4QP",adhoc,29 Feb 2024,150.0,1.2,
+4743,Lee Anderson,Daily Express,Writing one article,,"One Canada Square, Canary Wharf, London E14 5AP",adhoc,3 Apr 2024,1000.0,3.0,
+4743,Lee Anderson,GB News Limited,Presenter/Contributor on GB News,,"Riverbank House, 2 Swan Lane, London EC4R 3TT",ongoing,1 Mar 2023 – ongoing,56125.94,234.1,"£100,000/yearly · 8h/weekly (paid monthly)"
+4754,Peter Gibson,Clark Willis LLP,Advice and consultancy services,Law Firm,"105 Bondgate, Darlington DL3 7LB",adhoc,16 Apr 2024,564.0,7.0,
+4754,Peter Gibson,Clark Willis LLP,Advice and consultancy services,Law Firm,"105 Bondgate, Darlington DL3 7LB",adhoc,19 Feb 2024,48.0,0.6,
+4754,Peter Gibson,Clark Willis LLP,Advice and consultancy services,Law Firm,"105 Bondgate, Darlington DL3 7LB",adhoc,29 Jan 2024,70.0,1.0,
+4754,Peter Gibson,Clark Willis LLP,Advice and consultancy services,Law Firm,"105 Bondgate, Darlington DL3 7LB",adhoc,1 Dec 2023,143.5,2.0,
+4764,Bell Ribeiro-Addy,Faber and Faber,Interview Fee,Independent Publishing House,"The Bindery, 51 Hatton Garden, London EC1N 8HN",adhoc,25 Mar 2024,1000.0,2.0,
+4772,Kenny MacAskill,The Scots Magazine,Columnist,,"DC Thompson & Co Ltd, 1 Albert Square, Dundee DD1 1DD",ongoing,7 Nov 2023 – ongoing,1481.72,20.2,£220/monthly · 3h/monthly
+4772,Kenny MacAskill,JPI Media,Columnist,owner of The Scotsman,"Orchard Brae House, 30 Queensferry Road, Edinburgh EN4 2HS",ongoing,7 Nov 2023 – ongoing,5852.81,87.8,£200/weekly · 3h/weekly
+4803,Paul Holmes,Skyroom London Ltd,Commissioner of the Key Worker Homes Fund,,"25 Moorgate, London EC2R 6AY",ongoing,1 Jul 2021 – ongoing,0.0,101.0,£0/yearly · 15h/monthly ((see additional information below))
+4805,Alicia Kearns,Reach PLC,Writing articles,commercial news publisher,"One Canada Square, London E14 5AP",adhoc,7 Dec 2023,700.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,7 May 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,30 Apr 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,16 Apr 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,26 Mar 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,19 Mar 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,12 Mar 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,5 Mar 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,27 Feb 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,13 Feb 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,6 Feb 2024,250.0,2.0,
+4814,Jonathan Gullis,GB News Limited,Appearing on Patrick Christys Tonight and other programmes,,"c/o Brown Rudnick LLP, Riverbank House, 2 Swan Lane, London EC4R 3TT",adhoc,30 Jan 2024,250.0,2.0,
+4823,John Finucane,Finucane Toner Ltd,Director,Solicitors,"76-78 Castle St, Belfast BT1 1HD",ongoing,1 Jan 2020 – ongoing,31466.45,538.8,"£4,672/monthly · 80h/monthly"
+4832,Nick Fletcher,Analogue Electrics Ltd,Former director,Electrical contracting,"Unit 1A Lordswood Road, Harworth DN11 8BZ",ongoing,7 Nov 2023 – 1 Aug 2024,5388.09,0.0,"£800/monthly (Company car, phone, and health insurance)"
+4857,Carla Lockhart,Carla Lockhart and Rodney Condell,Farming and administrative duties,,"5 Morrow Park, Clabby, BT75 0LT",ongoing,7 Nov 2023 – ongoing,1403.15,234.1,"£2,500/yearly · 8h/weekly"
+4865,Miriam Cates,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,20 Feb 2024,750.0,15.0,
+4865,Miriam Cates,The Critic (Locomotive 6960 Ltd),Writing articles,,"6th Floor Capital Tower, 91 Waterloo Road, London SE1 8RT",adhoc,14 Dec 2023,100.0,3.0,
+4865,Miriam Cates,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,12 Dec 2023,150.0,3.0,
+4865,Miriam Cates,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,28 Nov 2023,250.0,3.0,
+4865,Miriam Cates,The Critic (Locomotive 6960 Ltd),Writing articles,,"6th Floor Capital Tower, 91 Waterloo Road, London SE1 8RT",adhoc,16 Nov 2023,100.0,2.0,
+4865,Miriam Cates,Telegraph Media Group,Writing articles,,"111 Buckingham Palace Road, London SW1W 0DT",adhoc,14 Nov 2023,250.0,3.0,
+4938,Paulette Hamilton,Birmingham and Solihull Mental Health Trust,Sitting on hearings as an Independent Lay Manager,,"Unit 1 B1, 50 Summer Hill Road, Birmingham B1 3RB",adhoc,28 Feb 2024,107.6,6.0,
+4938,Paulette Hamilton,Birmingham and Solihull Mental Health Trust,Sitting on hearings as an Independent Lay Manager,,"Unit 1 B1, 50 Summer Hill Road, Birmingham B1 3RB",adhoc,24 Jan 2024,307.6,10.0,
+4938,Paulette Hamilton,Birmingham and Solihull Mental Health Trust,Sitting on hearings as an Independent Lay Manager,,"Unit 1 B1, 50 Summer Hill Road, Birmingham B1 3RB",adhoc,28 Nov 2023,231.6,6.0,
+4943,Simon Lightwood,WA Communications,Speaking Engagement,,"6th Floor, Artillery House, Artillery Row, London SW1P 1RT",adhoc,18 Apr 2024,500.0,1.5,
+4994,Steve Tuckwell,Hillingdon Council,Councillor,,"London Borough of Hillingdon, Civic Centre, High Street, Uxbridge UB8 1UW",ongoing,7 Nov 2023 – ongoing,6742.99,146.3,"£12,014/yearly · 5h/weekly (paid monthly as a councillor allowance.)"
