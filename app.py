@@ -81,17 +81,23 @@ stats_sep2 = html.Span(' · ', className='stats-sep',
 header = html.Div([
     # Line 1: headline stats
     html.Div([
-        html.Span(f'{total_mps_with_earnings}',
-                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
-        html.Span(' MPs with outside earnings', style={'fontSize': 13, 'color': '#666'}),
+        html.Div([
+            html.Span(f'{total_mps_with_earnings}',
+                      style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
+            html.Span(' MPs with outside earnings', style={'fontSize': 13, 'color': '#666'}),
+        ], className='stat-item'),
         stats_sep,
-        html.Span(f'£{grand_total_earnings:,.0f}',
-                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
-        html.Span(' total earned', style={'fontSize': 13, 'color': '#666'}),
+        html.Div([
+            html.Span(f'£{grand_total_earnings:,.0f}',
+                      style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
+            html.Span(' total earned', style={'fontSize': 13, 'color': '#666'}),
+        ], className='stat-item'),
         stats_sep2,
-        html.Span(f'{grand_total_hours:,.0f}',
-                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
-        html.Span(' hours worked', style={'fontSize': 13, 'color': '#666'}),
+        html.Div([
+            html.Span(f'{grand_total_hours:,.0f}',
+                      style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
+            html.Span(' hours worked', style={'fontSize': 13, 'color': '#666'}),
+        ], className='stat-item'),
     ], className='header-stats-line', style={'marginBottom': 8}),
 
     # Line 2: session context caption

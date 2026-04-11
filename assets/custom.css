@@ -69,7 +69,7 @@ td.dash-cell.focused {
 .header-housekeeping {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     gap: 0;
 }
 .header-housekeeping-item {
@@ -148,7 +148,7 @@ td.dash-cell.focused {
     .header-stats-line {
         flex-wrap: wrap !important;
     }
-    .header-stats-line > span {
+    .stat-item {
         display: block;
     }
     /* Hide dot separators between stats */
@@ -159,6 +159,7 @@ td.dash-cell.focused {
     /* Stack housekeeping line */
     .header-housekeeping {
         flex-direction: column !important;
+        align-items: flex-start !important;
         gap: 4px;
     }
     .header-housekeeping-item::after {
