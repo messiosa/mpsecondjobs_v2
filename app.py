@@ -72,11 +72,6 @@ grand_total_earnings = df['total_earnings'].sum()
 grand_total_hours = df['total_hours'].sum()
 
 link_style = {'color': '#000000', 'cursor': 'pointer', 'textDecoration': 'underline'}
-sep = html.Span(' · ', style={'color': '#999', 'margin': '0 4px'})
-stats_sep = html.Span(' · ', className='stats-sep',
-                      style={'color': '#999', 'margin': '0 4px'})
-stats_sep2 = html.Span(' · ', className='stats-sep',
-                       style={'color': '#999', 'margin': '0 4px'})
 
 header = html.Div([
     # Line 1: headline stats
@@ -85,14 +80,12 @@ header = html.Div([
             html.Span(f'{total_mps_with_earnings}',
                       style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
             html.Span(' MPs with outside earnings', style={'fontSize': 13, 'color': '#666'}),
-        ], className='stat-item'),
-        stats_sep,
+        ], className='stat-item', style={'marginRight': 20}),
         html.Div([
             html.Span(f'£{grand_total_earnings:,.0f}',
                       style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
             html.Span(' total earned', style={'fontSize': 13, 'color': '#666'}),
-        ], className='stat-item'),
-        stats_sep2,
+        ], className='stat-item', style={'marginRight': 20}),
         html.Div([
             html.Span(f'{grand_total_hours:,.0f}',
                       style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),

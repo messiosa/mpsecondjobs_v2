@@ -151,10 +151,6 @@ td.dash-cell.focused {
     .stat-item {
         display: block;
     }
-    /* Hide dot separators between stats */
-    .stats-sep {
-        display: none !important;
-    }
 
     /* Stack housekeeping line */
     .header-housekeeping {
