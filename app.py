@@ -224,7 +224,11 @@ summary_page = html.Div([
     header,
     instructions,
     filter_bar,
-    html.Div([table], className='table-wrapper', style={'padding': '0 20px 20px 20px'}),
+    html.Div([
+        html.Button('‹', className='scroll-arrow scroll-arrow-left', id='scroll-left'),
+        table,
+        html.Button('›', className='scroll-arrow scroll-arrow-right', id='scroll-right'),
+    ], className='table-wrapper', style={'padding': '0 20px 20px 20px'}),
     modal,
 ])
 

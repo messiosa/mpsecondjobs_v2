@@ -65,25 +65,63 @@ td.dash-cell.focused {
     text-decoration: none !important;
 }
 
-/* Search input padding for icon */
+/* Search input - Spotify style */
 .search-input input {
-    padding-left: 32px !important;
+    padding: 10px 16px 10px 38px !important;
+    border-radius: 20px !important;
+    border: 1px solid #ccc !important;
+    background-color: #f5f5f5 !important;
+    transition: border-color 0.2s, background-color 0.2s;
+}
+.search-input input:focus {
+    border-color: #000 !important;
+    background-color: #fff !important;
+    outline: none !important;
+    box-shadow: none !important;
 }
 
 /* Table scroll hint — gradient fade on right edge */
 .table-wrapper {
     position: relative;
 }
-.table-wrapper::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 30px;
-    height: 100%;
-    background: linear-gradient(to right, transparent, rgba(255,255,255,0.8));
-    pointer-events: none;
+
+/* Floating scroll arrows for mobile */
+.scroll-arrow {
     display: none;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 32px;
+    height: 32px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    cursor: pointer;
+    z-index: 5;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+.scroll-arrow:hover {
+    opacity: 1;
+}
+.scroll-arrow-left {
+    left: 4px;
+}
+.scroll-arrow-right {
+    right: 4px;
+}
+
+@media (max-width: 768px) {
+    .scroll-arrow {
+        display: block;
+    }
+    .scroll-arrow.hidden {
+        display: none;
+    }
 }
 
 /* Mobile responsive */
@@ -101,11 +139,6 @@ td.dash-cell.focused {
         flex-direction: column !important;
         align-items: flex-start !important;
         gap: 8px;
-    }
-
-    /* Show scroll hint on table */
-    .table-wrapper::after {
-        display: block;
     }
 
     /* Modal takes full width */
