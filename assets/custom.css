@@ -65,6 +65,25 @@ td.dash-cell.focused {
     text-decoration: none !important;
 }
 
+/* Housekeeping line - inline on desktop, stacked on mobile */
+.header-housekeeping {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0;
+}
+.header-housekeeping-item {
+    display: inline;
+}
+.header-housekeeping-item::after {
+    content: ' · ';
+    color: #999;
+    margin: 0 4px;
+}
+.header-housekeeping-item:last-of-type::after {
+    content: '';
+}
+
 /* Search input - Spotify style */
 .search-input input {
     padding: 10px 16px 10px 38px !important;
@@ -89,8 +108,7 @@ td.dash-cell.focused {
 .scroll-arrow {
     display: none;
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 50px;
     width: 32px;
     height: 32px;
     background: rgba(0, 0, 0, 0.5);
@@ -132,6 +150,19 @@ td.dash-cell.focused {
     }
     .header-stats-line > span {
         display: block;
+    }
+    /* Hide dot separators between stats */
+    .stats-sep {
+        display: none !important;
+    }
+
+    /* Stack housekeeping line */
+    .header-housekeeping {
+        flex-direction: column !important;
+        gap: 4px;
+    }
+    .header-housekeeping-item::after {
+        content: '' !important;
     }
 
     /* Stack filter bar */

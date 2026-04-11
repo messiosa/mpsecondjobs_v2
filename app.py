@@ -73,6 +73,10 @@ grand_total_hours = df['total_hours'].sum()
 
 link_style = {'color': '#000000', 'cursor': 'pointer', 'textDecoration': 'underline'}
 sep = html.Span(' · ', style={'color': '#999', 'margin': '0 4px'})
+stats_sep = html.Span(' · ', className='stats-sep',
+                      style={'color': '#999', 'margin': '0 4px'})
+stats_sep2 = html.Span(' · ', className='stats-sep',
+                       style={'color': '#999', 'margin': '0 4px'})
 
 header = html.Div([
     # Line 1: headline stats
@@ -80,11 +84,11 @@ header = html.Div([
         html.Span(f'{total_mps_with_earnings}',
                   style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
         html.Span(' MPs with outside earnings', style={'fontSize': 13, 'color': '#666'}),
-        sep,
+        stats_sep,
         html.Span(f'£{grand_total_earnings:,.0f}',
                   style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
         html.Span(' total earned', style={'fontSize': 13, 'color': '#666'}),
-        sep,
+        stats_sep2,
         html.Span(f'{grand_total_hours:,.0f}',
                   style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
         html.Span(' hours worked', style={'fontSize': 13, 'color': '#666'}),
@@ -99,18 +103,21 @@ header = html.Div([
 
     # Line 3: housekeeping
     html.Div([
-        html.Span(f'Last updated: {snapshot_date_words}',
-                  style={'fontSize': 13, 'color': '#666'}),
-        sep,
-        html.Span('Download: ', style={'fontSize': 13, 'color': '#666'}),
-        html.A('MP summary (.xlsx)', id='btn-download-summary',
-               style={**link_style, 'fontSize': 13}),
-        sep,
-        html.A('Jobs detail (.xlsx)', id='btn-download-detail',
-               style={**link_style, 'fontSize': 13}),
+        html.Div([
+            html.Span(f'Last updated: {snapshot_date_words}',
+                      style={'fontSize': 13, 'color': '#666'}),
+        ], className='header-housekeeping-item'),
+        html.Div([
+            html.Span('Download: ', style={'fontSize': 13, 'color': '#666'}),
+            html.A('MP summary (.xlsx)', id='btn-download-summary',
+                   style={**link_style, 'fontSize': 13}),
+            html.Span(' · ', style={'color': '#999', 'margin': '0 4px'}),
+            html.A('Jobs detail (.xlsx)', id='btn-download-detail',
+                   style={**link_style, 'fontSize': 13}),
+        ], className='header-housekeeping-item'),
         dcc.Download(id='download-summary'),
         dcc.Download(id='download-detail'),
-    ]),
+    ], className='header-housekeeping'),
 ], style={
     'padding': '15px 20px',
     'fontFamily': 'Arial',
