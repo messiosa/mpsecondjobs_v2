@@ -10,7 +10,10 @@ import pandas as pd
 app = Dash(
     __name__,
     suppress_callback_exceptions=True,
-    external_stylesheets=[dbc.themes.BOOTSTRAP],
+    external_stylesheets=[
+        dbc.themes.BOOTSTRAP,
+        'https://fonts.googleapis.com/icon?family=Material+Icons',
+    ],
     title='mpsecondjobs.org',
 )
 server = app.server
@@ -39,49 +42,53 @@ session_label = (
 snapshot_date_words = f'{SNAPSHOT_DATE.day} {SNAPSHOT_DATE.strftime("%B %Y")}'
 
 # ── Navbar ─────────────────────────────────────────────────────────────
-navbar = html.Div([
-    html.Span('mpsecondjobs.org', className='navbar-title',
-              style={'margin': '0 30px 0 0', 'color': 'white', 'fontSize': 20}),
-    dcc.Link('Summary', href='/', className='navbar-link',
-             style={'margin': '0 15px 0 0', 'color': 'white', 'fontSize': 16}),
-    html.Span('/', style={'margin': '0 15px 0 0', 'color': 'white', 'fontSize': 20}),
-    dcc.Link('About', href='/about', className='navbar-link',
-             style={'margin': '0 15px 0 0', 'color': 'white', 'fontSize': 16}),
-],
-    style={
-        'fontFamily': 'Arial',
-        'fontWeight': 'bold',
-        'display': 'flex',
-        'justifyContent': 'flex-start',
-        'alignItems': 'center',
-        'backgroundColor': '#383838',
-        'padding': '10px',
-    },
-    className='navbar')
+def make_navbar(pathname='/'):
+    """Build navbar with active page underlined."""
+    summary_cls = 'navbar-link-active' if pathname == '/' else 'navbar-link-inactive'
+    about_cls = 'navbar-link-active' if pathname == '/about' else 'navbar-link-inactive'
+    return html.Div([
+        html.Img(src='assets/mpsj_logo.jpg',
+                style={'height': '30px', 'margin': '0 30px 0 0', 'filter': 'invert(1)'}),
+        dcc.Link('Summary', href='/', className=summary_cls,
+                 style={'margin': '0 15px 0 0', 'fontSize': 16}),
+        html.Span('/', style={'margin': '0 15px 0 0', 'color': 'white', 'fontSize': 20}),
+        dcc.Link('About', href='/about', className=about_cls,
+                 style={'margin': '0 15px 0 0', 'fontSize': 16}),
+    ],
+        style={
+            'fontFamily': 'Arial',
+            'fontWeight': 'bold',
+            'display': 'flex',
+            'justifyContent': 'flex-start',
+            'alignItems': 'center',
+            'backgroundColor': '#000000',
+            'padding': '10px',
+        },
+        className='navbar')
 
 # ── Header ─────────────────────────────────────────────────────────────
 total_mps_with_earnings = len(df[df['total_earnings'] > 0])
 grand_total_earnings = df['total_earnings'].sum()
 grand_total_hours = df['total_hours'].sum()
 
-link_style = {'color': '#383838', 'cursor': 'pointer', 'textDecoration': 'underline'}
+link_style = {'color': '#000000', 'cursor': 'pointer', 'textDecoration': 'underline'}
 sep = html.Span(' · ', style={'color': '#999', 'margin': '0 4px'})
 
 header = html.Div([
     # Line 1: headline stats
     html.Div([
         html.Span(f'{total_mps_with_earnings}',
-                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#383838'}),
+                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
         html.Span(' MPs with outside earnings', style={'fontSize': 13, 'color': '#666'}),
         sep,
         html.Span(f'£{grand_total_earnings:,.0f}',
-                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#383838'}),
+                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
         html.Span(' total earned', style={'fontSize': 13, 'color': '#666'}),
         sep,
         html.Span(f'{grand_total_hours:,.0f}',
-                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#383838'}),
+                  style={'fontSize': 24, 'fontWeight': 'bold', 'color': '#000000'}),
         html.Span(' hours worked', style={'fontSize': 13, 'color': '#666'}),
-    ], style={'marginBottom': 8}),
+    ], className='header-stats-line', style={'marginBottom': 8}),
 
     # Line 2: session context caption
     html.Div([
@@ -111,17 +118,35 @@ header = html.Div([
 })
 
 # ── Search / filter bar ───────────────────────────────────────────────
+instructions = html.Div([
+    html.Strong([
+        html.Span('info', className='material-icons',
+                  style={'fontSize': 16, 'verticalAlign': 'text-bottom', 'marginRight': 4}),
+        'Search for an MP, constituency, party, or any detail about their outside work '
+        '(e.g. "X Corp", "solicitor", "speaking", "Mauritius"). Click any MP to see a full breakdown.',
+    ]),
+], style={'padding': '10px 20px 5px', 'fontSize': 13, 'color': '#000000',
+          'fontFamily': 'Arial'})
+
 filter_bar = html.Div([
-    dcc.Input(
-        id='search-input',
-        type='text',
-        placeholder='Search by MP name, constituency, or party...',
-        debounce=True,
-        style={
-            'width': '400px', 'padding': '8px 12px', 'fontSize': 14,
-            'fontFamily': 'Arial', 'border': '1px solid #ccc', 'borderRadius': '3px',
-        }
-    ),
+    html.Div([
+        html.Span('search', className='material-icons',
+                  style={'position': 'absolute', 'left': 10, 'top': '50%',
+                         'transform': 'translateY(-50%)', 'fontSize': 20,
+                         'color': '#999', 'zIndex': 1, 'pointerEvents': 'none'}),
+        dcc.Input(
+            id='search-input',
+            type='text',
+            placeholder='What do you want to search?',
+            debounce=True,
+            className='search-input',
+            style={
+                'width': '350px', 'fontSize': 14,
+                'fontFamily': 'Arial', 'border': '1px solid #ccc',
+                'borderRadius': '20px', 'outline': 'none',
+            }
+        ),
+    ], style={'position': 'relative', 'display': 'inline-block'}),
     html.Div([
         html.Label('Show: ', style={'fontSize': 13, 'color': '#666', 'marginRight': 5}),
         dcc.Dropdown(
@@ -132,12 +157,13 @@ filter_bar = html.Div([
             ],
             value='all',
             clearable=False,
+            searchable=False,
             style={'width': 200, 'fontSize': 13},
         ),
     ], style={'display': 'flex', 'alignItems': 'center'}),
-], style={
+], className='filter-bar', style={
     'display': 'flex', 'justifyContent': 'space-between',
-    'alignItems': 'center', 'padding': '10px 20px', 'fontFamily': 'Arial',
+    'alignItems': 'center', 'padding': '5px 20px 10px', 'fontFamily': 'Arial',
 })
 
 # ── Summary table ─────────────────────────────────────────────────────
@@ -162,7 +188,7 @@ table = dash_table.DataTable(
     page_action='native',
     style_table={'overflowX': 'auto'},
     style_header={
-        'backgroundColor': '#383838', 'color': 'white', 'fontWeight': 'bold',
+        'backgroundColor': '#000000', 'color': 'white', 'fontWeight': 'bold',
         'fontFamily': 'Arial', 'fontSize': 13, 'padding': '10px 8px', 'textAlign': 'left',
     },
     style_cell={
@@ -188,7 +214,7 @@ table = dash_table.DataTable(
 # ── Modal for job detail ──────────────────────────────────────────────
 modal = dbc.Modal([
     dbc.ModalHeader(id='modal-header', close_button=True, style={
-        'backgroundColor': '#383838', 'color': 'white', 'fontFamily': 'Arial',
+        'backgroundColor': '#000000', 'color': 'white', 'fontFamily': 'Arial',
     }),
     dbc.ModalBody(id='modal-body', style={'fontFamily': 'Arial', 'padding': '0'}),
 ], id='detail-modal', size='xl', centered=True, scrollable=True)
@@ -196,11 +222,9 @@ modal = dbc.Modal([
 # ── Summary page ──────────────────────────────────────────────────────
 summary_page = html.Div([
     header,
+    instructions,
     filter_bar,
-    html.Div(html.Em('Click any MP name to see a full breakdown of their outside employment.'),
-             style={'padding': '0 20px 5px', 'fontSize': 12, 'color': '#666',
-                    'fontFamily': 'Arial'}),
-    html.Div([table], style={'padding': '0 20px 20px 20px'}),
+    html.Div([table], className='table-wrapper', style={'padding': '0 20px 20px 20px'}),
     modal,
 ])
 
@@ -279,7 +303,7 @@ as Excel files from the Summary page.
 # ── Layout ────────────────────────────────────────────────────────────
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
-    navbar,
+    html.Div(id='navbar-container'),
     html.Div(id='page-content'),
 ], style={'backgroundColor': 'white', 'minHeight': '100vh'})
 
@@ -289,7 +313,7 @@ def build_type_badge(row_type):
     """Return a styled badge for the job type."""
     if row_type in ('ongoing', 'ongoing_parent'):
         return html.Span('Ongoing', style={
-            'background': '#383838', 'color': 'white', 'padding': '2px 6px',
+            'background': '#000000', 'color': 'white', 'padding': '2px 6px',
             'borderRadius': '3px', 'fontSize': 10,
         })
     elif row_type == 'adhoc':
@@ -378,13 +402,15 @@ def build_detail_table(mnis_id):
 
 # Page routing
 @app.callback(
-    Output('page-content', 'children'),
+    [Output('navbar-container', 'children'),
+     Output('page-content', 'children')],
     Input('url', 'pathname'),
 )
 def display_page(pathname):
+    nav = make_navbar(pathname)
     if pathname == '/about':
-        return about_page
-    return summary_page
+        return nav, about_page
+    return nav, summary_page
 
 
 # Filter and sort table
@@ -402,11 +428,22 @@ def filter_and_sort_table(search, show_filter, sort_by):
 
     if search:
         search_lower = search.lower()
-        filtered = filtered[
+        # Search MP name, constituency, party
+        mp_match = (
             filtered['name'].str.lower().str.contains(search_lower, na=False) |
             filtered['constituency'].str.lower().str.contains(search_lower, na=False) |
             filtered['party'].str.lower().str.contains(search_lower, na=False)
-        ]
+        )
+        # Search jobs detail: employer, role, nature of business, address
+        jobs_match = jobs[
+            jobs['employer'].str.lower().str.contains(search_lower, na=False) |
+            jobs['role'].str.lower().str.contains(search_lower, na=False) |
+            jobs['nature_of_business'].str.lower().str.contains(search_lower, na=False) |
+            jobs['address'].str.lower().str.contains(search_lower, na=False)
+        ]['mnis_id'].unique()
+        jobs_mp_match = filtered['mnis_id'].isin(jobs_match)
+
+        filtered = filtered[mp_match | jobs_mp_match]
 
     if sort_by:
         col = sort_by[0]['column_id']
