@@ -230,6 +230,9 @@ summary_page = html.Div([
     header,
     instructions,
     filter_bar,
+    html.Div(id='no-results', style={'padding': '20px', 'fontFamily': 'Arial',
+                                      'fontSize': 14, 'color': '#666',
+                                      'fontStyle': 'italic', 'display': 'none'}),
     html.Div([
         html.Button('‹', className='scroll-arrow scroll-arrow-left', id='scroll-left'),
         table,
@@ -425,13 +428,18 @@ def display_page(pathname):
 
 # Filter and sort table
 @app.callback(
-    Output('summary-table', 'data'),
+    [Output('summary-table', 'data'),
+     Output('no-results', 'children'),
+     Output('no-results', 'style')],
     [Input('search-input', 'value'),
      Input('filter-dropdown', 'value'),
      Input('summary-table', 'sort_by')],
 )
 def filter_and_sort_table(search, show_filter, sort_by):
     filtered = df.copy()
+    hidden = {'display': 'none'}
+    visible = {'padding': '20px', 'fontFamily': 'Arial', 'fontSize': 14,
+               'color': '#666', 'fontStyle': 'italic'}
 
     if show_filter == 'with_earnings':
         filtered = filtered[filtered['total_earnings'] > 0]
@@ -461,7 +469,9 @@ def filter_and_sort_table(search, show_filter, sort_by):
             ascending = sort_by[0]['direction'] == 'asc'
             filtered = filtered.sort_values(col, ascending=ascending)
 
-    return filtered.to_dict('records')
+    if filtered.empty and search:
+        return [], f'No results found for "{search}".', visible
+    return filtered.to_dict('records'), '', hidden
 
 
 # Modal: open on row click, reset active_cell to allow re-clicking same row
