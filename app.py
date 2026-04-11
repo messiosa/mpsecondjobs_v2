@@ -137,9 +137,9 @@ instructions = html.Div([
 filter_bar = html.Div([
     html.Div([
         html.Span('search', className='material-icons',
-                  style={'position': 'absolute', 'left': 10, 'top': '50%',
-                         'transform': 'translateY(-50%)', 'fontSize': 20,
-                         'color': '#999', 'zIndex': 1, 'pointerEvents': 'none'}),
+                  style={'position': 'absolute', 'left': 12, 'top': '50%',
+                         'transform': 'translateY(-50%)', 'fontSize': 18,
+                         'color': '#999', 'zIndex': 2, 'pointerEvents': 'none'}),
         dcc.Input(
             id='search-input',
             type='text',
@@ -152,7 +152,7 @@ filter_bar = html.Div([
                 'borderRadius': '20px', 'outline': 'none',
             }
         ),
-    ], style={'position': 'relative', 'display': 'inline-block'}),
+    ], className='search-wrapper'),
     html.Div([
         html.Label('Show: ', style={'fontSize': 13, 'color': '#666', 'marginRight': 5}),
         dcc.Dropdown(
