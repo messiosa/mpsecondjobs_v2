@@ -108,7 +108,7 @@ td.dash-cell.focused {
 .scroll-arrow {
     display: none;
     position: absolute;
-    top: 50px;
+    top: 80px;
     width: 32px;
     height: 32px;
     background: rgba(0, 0, 0, 0.5);
