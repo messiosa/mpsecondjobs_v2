@@ -5,6 +5,7 @@ import dash_bootstrap_components as dbc
 from dateutil.relativedelta import relativedelta
 from datetime import date
 import json
+import random
 import pandas as pd
 
 app = Dash(
@@ -230,14 +231,14 @@ summary_page = html.Div([
     header,
     instructions,
     filter_bar,
-    html.Div(id='no-results', style={'padding': '20px', 'fontFamily': 'Arial',
-                                      'fontSize': 14, 'color': '#666',
-                                      'fontStyle': 'italic', 'display': 'none'}),
     html.Div([
         html.Button('‹', className='scroll-arrow scroll-arrow-left', id='scroll-left'),
         table,
         html.Button('›', className='scroll-arrow scroll-arrow-right', id='scroll-right'),
-    ], className='table-wrapper', style={'padding': '0 20px 20px 20px'}),
+    ], className='table-wrapper', style={'padding': '0 20px 0 20px'}),
+    html.Div(id='no-results', style={'padding': '20px', 'fontFamily': 'Arial',
+                                      'fontSize': 14, 'color': '#666',
+                                      'fontStyle': 'italic', 'display': 'none'}),
     modal,
 ])
 
@@ -470,7 +471,32 @@ def filter_and_sort_table(search, show_filter, sort_by):
             filtered = filtered.sort_values(col, ascending=ascending)
 
     if filtered.empty and search:
-        return [], f'No results found for "{search}".', visible
+        fun_facts = [
+            "Pete Wishart (SNP) receives music royalties from EMI — he was the keyboard player in Scottish rock band Runrig.",
+            "Ed Davey (Liberal Democrat) was paid £2,000 for a guest appearance on Have I Got News For You.",
+            "Louise Haigh (Labour) was paid £1,500 as a guest panellist on Have I Got News For You.",
+            "Nigel Farage (Reform UK) has earned over £220,000 this session from Cameo — the app where you pay celebrities to record personalised video messages.",
+            "Carla Denyer (Green Party) has been paid twice for ITV gameshow guest appearances — £1,800 each time.",
+            "Dr Andrew Murrison (Conservative) serves as a Surgeon Commander in the Royal Naval Reserve alongside being an MP — earning over £22,000 for 426 hours of naval service this session.",
+            "Aphra Brandreth (Conservative) is a company director of Smart Vet Ltd, trading as 'Pet People' — a veterinary clinic.",
+            "Sir Geoffrey Clifton-Brown (Conservative) works as a partner in an arable farming business — 706 hours of farming this session.",
+            "Diane Abbott (Independent) received over £40,000 in book advances for writing her autobiography — plus £2,250 for narrating the audiobook herself.",
+            "Carla Lockhart (DUP) has logged 701 hours of farming and administrative duties this session — more hours than most MPs spend on any outside job.",
+            "Dr Rosena Allin-Khan (Labour) works shifts as a doctor at St George's Hospital NHS Trust alongside being an MP — over 300 hours this session.",
+            "Chris Coghlan (Liberal Democrat) serves as a Reservist army officer in the British Army — attending nearly 90 hours of service this session.",
+            "Sir Keir Starmer (Labour) still receives copyright payments for books he wrote before becoming Prime Minister.",
+            "Dr Neil Hudson (Conservative) sits on the British Horseracing Authority's Horse Welfare Board — 57 hours of horse welfare work this session.",
+            "Wes Streeting (Labour) earns library copyright fees through Public Lending Right — for people borrowing his book from libraries.",
+        ]
+        fact = random.choice(fun_facts)
+        msg = html.Div([
+            html.Span(f'No results found for "{search}".'),
+            html.Br(),
+            html.Br(),
+            html.Span('Did you know? ', style={'fontWeight': 'bold', 'fontStyle': 'normal'}),
+            html.Span(fact, style={'fontStyle': 'normal'}),
+        ])
+        return [], msg, visible
     return filtered.to_dict('records'), '', hidden
 
 
