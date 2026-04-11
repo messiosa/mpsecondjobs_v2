@@ -111,16 +111,22 @@ summary_page = html.Div([
     html.Div(id='header-content', style={
         'padding': '15px 20px 0 20px', 'fontFamily': 'Arial',
     }),
-    # Static download bar — never re-rendered
+    # Housekeeping line — static layout, dynamic label text
     html.Div([
-        html.Span('Download: ', style={'fontSize': 13, 'color': '#666'}),
-        html.A('MP summary (.xlsx)', id='btn-download-summary',
-               style={**link_style, 'fontSize': 13}),
-        html.Span(' · ', style={'color': '#999', 'margin': '0 4px'}),
-        html.A('Jobs detail (.xlsx)', id='btn-download-detail',
-               style={**link_style, 'fontSize': 13}),
-    ], style={'padding': '0 20px 15px', 'fontFamily': 'Arial',
-              'borderBottom': '1px solid #ddd'}),
+        html.Div([
+            html.Span(id='housekeeping-label', style={'fontSize': 13, 'color': '#666'}),
+        ], className='header-housekeeping-item'),
+        html.Div([
+            html.Span('Download: ', style={'fontSize': 13, 'color': '#666'}),
+            html.A('MP summary (.xlsx)', id='btn-download-summary',
+                   style={**link_style, 'fontSize': 13}),
+            html.Span(' · ', style={'color': '#999', 'margin': '0 4px'}),
+            html.A('Jobs detail (.xlsx)', id='btn-download-detail',
+                   style={**link_style, 'fontSize': 13}),
+        ], className='header-housekeeping-item'),
+    ], className='header-housekeeping', style={
+        'padding': '0 20px 15px', 'fontFamily': 'Arial',
+        'borderBottom': '1px solid #ddd'}),
     html.Div([
         html.Strong([
             html.Span('info', className='material-icons',
@@ -399,10 +405,8 @@ def update_header(session_key):
 
     if info['is_current']:
         caption = f'All figures are cumulative totals for the current parliamentary session ({info["session_label"]})'
-        housekeeping_label = f'Last updated: {info["snapshot_date_words"]}'
     else:
         caption = f'All figures are cumulative totals for this parliamentary session ({info["session_label"]})'
-        housekeeping_label = f'Session ended: {info["session_end_words"]}'
 
     return [
         *session_selector,
@@ -425,11 +429,6 @@ def update_header(session_key):
         ], className='header-stats-line', style={'marginBottom': 8}),
         html.Div([html.Em(caption, style={'fontSize': 13, 'color': '#666'})],
                  style={'marginBottom': 8}),
-        html.Div([
-            html.Div([
-                html.Span(housekeeping_label, style={'fontSize': 13, 'color': '#666'}),
-            ], className='header-housekeeping-item'),
-        ], className='header-housekeeping'),
     ]
 
 
@@ -440,6 +439,17 @@ def update_header(session_key):
 )
 def update_session_store(value):
     return value
+
+
+@app.callback(
+    Output('housekeeping-label', 'children'),
+    Input('session-store', 'data'),
+)
+def update_housekeeping_label(session_key):
+    info = get_session_info(session_key)
+    if info['is_current']:
+        return f'Last updated: {info["snapshot_date_words"]}'
+    return f'Session ended: {info["session_end_words"]}'
 
 
 @app.callback(
