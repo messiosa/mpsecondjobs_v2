@@ -1,0 +1,44 @@
+name: Update Register Data
+
+on:
+  schedule:
+    # Weekdays: every hour from 7am to 7pm UTC (covers UK working hours)
+    - cron: '0 7-19 * * 1-5'
+    # Weekends: every 6 hours (catch surprise publishes)
+    - cron: '0 0,6,12,18 * * 0,6'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas
+
+      - name: Check for new register data
+        run: python scripts/update_data.py
+
+      - name: Commit and push if updated
+        if: hashFiles('.data_updated') != ''
+        run: |
+          git config user.name "MPSJ Auto-Updater"
+          git config user.email "mpsj-bot@users.noreply.github.com"
+          git add -A
+          # Remove the flag file before committing
+          rm -f .data_updated
+          git add -A
+          git commit -m "Auto-update: Register published $(cat data/last_register.json | python3 -c 'import sys,json; print(json.load(sys.stdin)["published_date"])')"
+          git push
