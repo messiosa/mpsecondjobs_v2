@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   check-and-update:
@@ -40,5 +41,21 @@ jobs:
           # Remove the flag file before committing
           rm -f .data_updated
           git add -A
-          git commit -m "Auto-update: Register published $(cat data/last_register.json | python3 -c 'import sys,json; print(json.load(sys.stdin)["published_date"])')"
+          PUBLISH_DATE=$(cat data/last_register.json | python3 -c 'import sys,json; print(json.load(sys.stdin)["published_date"])')
+          git commit -m "Auto-update: Register published ${PUBLISH_DATE}"
           git push
+          echo "PUBLISH_DATE=${PUBLISH_DATE}" >> $GITHUB_ENV
+
+      - name: Create notification issue
+        if: env.PUBLISH_DATE != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const date = process.env.PUBLISH_DATE;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Register updated: ${date}`,
+              body: `The Register of Members' Financial Interests published on **${date}** has been automatically downloaded and processed.\n\nThe site will redeploy on Render shortly.\n\n[View the register →](https://members.parliament.uk/members/commons/interests/publications)`,
+              labels: ['auto-update']
+            });
