@@ -1,117 +1,115 @@
 mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongoing_hours,total_earnings,total_hours,summary
-4483,Rishi Sunak,Conservative,Richmond and Northallerton,948253.61,169.5,1155834.17,315.4,2104087.78,484.9,"£948k from 11 ad hoc payments (Washington Speakers Bureau and Hoover Institution). £1.2m from 3 ongoing roles (Goldman Sachs International, Anthropic Public Benefit Corporation and 1 other)."
-5091,Nigel Farage,Reform UK,Clacton,1565411.15,1172.0,85289.53,341.2,1650700.68,1513.2,"£1.6m from 93 ad hoc payments (GB News Ltd, Direct Bullion and 13 others). £85k from 1 ongoing role (Telegraph media group)."
-1508,Sir Geoffrey Cox,Conservative,Torridge and Tavistock,830186.51,592.5,521332.24,639.7,1351518.75,1232.2,"£830k from 32 ad hoc payments (The Khan Partnership, Travers Thorp Alberga and 9 others). £521k from 1 ongoing role (Withers LLP)."
-1572,Sir Jeremy Hunt,Conservative,Godalming and Ash,440470.0,86.8,0.0,0.0,440470.0,86.8,"£440k from 33 ad hoc payments (Chartwell Partners Ltd, RL Datix (EBT) Ltd and 4 others)."
-4441,Sir Oliver Dowden,Conservative,Hertsmere,337500.0,646.0,0.0,0.0,337500.0,646.0,"£338k from 23 ad hoc payments (Pierce Protocols Limited trading as Heni, Caxton Associates LLP and 1 other)."
-4020,George Freeman,Conservative,Mid Norfolk,12000.0,8.0,305051.33,1388.2,317051.33,1396.2,"£12k from 4 ad hoc payments (Oxford Institute of Digital Health, The Guy Foundation Family Trust and 1 other). £305k from 10 ongoing roles (Pioneer Group Limited, Nighthawk Partners Limited and 7 others)."
-5062,Nick Timothy,Conservative,West Suffolk,0.0,0.0,257645.45,277.9,257645.45,277.9,£258k from 1 ongoing role (Daily Telegraph).
-4743,Lee Anderson,Reform UK,Ashfield,6250.42,306.0,177686.52,741.2,183936.94,1047.2,£6k from 40 ad hoc payments (X Corp). £178k from 1 ongoing role (GB News Limited).
-350,Sir John Hayes,Conservative,South Holland and The Deepings,13122.5,37.0,162962.7,781.8,176085.2,818.8,£13k from 5 ad hoc payments (Richmond American University London and Reach Plc (Reach Shared Services Ltd)). £163k from 2 ongoing roles (BB Energy Trading Ltd and University of Greater Manchester).
-1576,Mark Pritchard,Conservative,The Wrekin,0.0,0.0,162628.34,180.7,162628.34,180.7,£163k from 1 ongoing role (ATS Group).
-4051,John Glen,Conservative,Salisbury,0.0,0.0,151786.45,75.9,151786.45,75.9,£152k from 1 ongoing role (Open Banking Limited).
-4108,Sir Gavin Williamson,Conservative,"Stone, Great Wyrley and Penkridge",0.0,0.0,136049.28,366.0,136049.28,366.0,£136k from 2 ongoing roles (RTC Education Ltd and Odysight AI).
+4483,Rishi Sunak,Conservative,Richmond and Northallerton,948253.61,169.5,1246879.83,344.5,2195133.44,514.0,"£948k from 11 ad hoc payments (Washington Speakers Bureau and Hoover Institution). £1.2m from 3 ongoing roles (Goldman Sachs International, Anthropic Public Benefit Corporation and 1 other)."
+5091,Nigel Farage,Reform UK,Clacton,1565411.15,1172.0,88049.28,352.2,1653460.43,1524.2,"£1.6m from 93 ad hoc payments (GB News Ltd, Direct Bullion and 13 others). £88k from 1 ongoing role (Telegraph media group)."
+1508,Sir Geoffrey Cox,Conservative,Torridge and Tavistock,916236.51,637.0,538201.23,660.4,1454437.74,1297.4,"£916k from 36 ad hoc payments (The Khan Partnership, ABH Holdings SA and 10 others). £538k from 1 ongoing role (Withers LLP)."
+1572,Sir Jeremy Hunt,Conservative,Godalming and Ash,474470.0,93.3,0.0,0.0,474470.0,93.3,"£474k from 35 ad hoc payments (Chartwell Partners Ltd, RL Datix (EBT) Ltd and 4 others)."
+4441,Sir Oliver Dowden,Conservative,Hertsmere,356517.87,666.0,0.0,0.0,356517.87,666.0,"£357k from 25 ad hoc payments (Pierce Protocols Limited trading as Heni, Caxton Associates LLP and 1 other)."
+4020,George Freeman,Conservative,Mid Norfolk,12000.0,8.0,314365.5,1440.4,326365.5,1448.4,"£12k from 4 ad hoc payments (Oxford Institute of Digital Health, The Guy Foundation Family Trust and 1 other). £314k from 10 ongoing roles (Pioneer Group Limited, Nighthawk Partners Limited and 7 others)."
+5062,Nick Timothy,Conservative,West Suffolk,0.0,0.0,265982.2,286.9,265982.2,286.9,£266k from 1 ongoing role (Daily Telegraph).
+4051,John Glen,Conservative,Salisbury,0.0,0.0,193182.75,96.6,193182.75,96.6,£193k from 1 ongoing role (Open Banking Limited).
+4743,Lee Anderson,Reform UK,Ashfield,6415.04,316.0,183436.0,765.1,189851.04,1081.1,£6k from 42 ad hoc payments (X Corp). £183k from 1 ongoing role (GB News Limited).
+350,Sir John Hayes,Conservative,South Holland and The Deepings,13122.5,37.0,168235.76,807.1,181358.26,844.1,£13k from 5 ad hoc payments (Richmond American University London and Reach Plc (Reach Shared Services Ltd)). £168k from 2 ongoing roles (BB Energy Trading Ltd and University of Greater Manchester).
+1576,Mark Pritchard,Conservative,The Wrekin,0.0,0.0,168837.78,187.6,168837.78,187.6,£169k from 1 ongoing role (ATS Group).
+4108,Sir Gavin Williamson,Conservative,"Stone, Great Wyrley and Penkridge",0.0,0.0,142258.73,391.6,142258.73,391.6,£142k from 2 ongoing roles (RTC Education Ltd and Odysight AI).
 1446,Chris Bryant,Labour,Rhondda and Ogmore,133677.62,106.0,0.0,0.0,133677.62,106.0,"£134k from 12 ad hoc payments (United Agents, ALCS and 1 other)."
-4462,Tom Tugendhat,Conservative,Tonbridge,29759.26,81.0,70858.46,237.8,100617.72,318.8,"£30k from 26 ad hoc payments (Spoken Ltd, Telegraph Media Group Limited and 7 others). £71k from 2 ongoing roles (Sulnox Group Plc and Observer Research Foundation Middle East)."
-4823,John Finucane,Sinn Féin,Belfast North,0.0,0.0,99618.17,1705.8,99618.17,1705.8,£100k from 1 ongoing role (Finucane Toner Ltd).
-5197,Dr Neil Shastri-Hurst,Conservative,Solihull West and Shirley,98867.99,603.6,0.0,0.0,98867.99,603.6,£99k from 65 ad hoc payments (No5 Chambers and Confidential in accordance with footnote 9 of paragraph 8(b) of the Code of Conduct and Guide to the Rules).
-5067,Tony Vaughan,Labour,Folkestone and Hythe,96975.91,272.1,0.0,0.0,96975.91,272.1,"£97k from 33 ad hoc payments (Doughty Street Chambers, Legal Aid Agency and 1 other)."
-4366,Sir James Cleverly,Conservative,Braintree,80367.5,119.0,16372.35,114.9,96739.85,233.9,£80k from 8 ad hoc payments (JLA Speakers Ltd). £16k from 1 ongoing role (BOKA Capital Ltd).
+5197,Dr Neil Shastri-Hurst,Conservative,Solihull West and Shirley,109915.91,664.1,0.0,0.0,109915.91,664.1,£110k from 68 ad hoc payments (No5 Chambers and Confidential in accordance with footnote 9 of paragraph 8(b) of the Code of Conduct and Guide to the Rules).
+5067,Tony Vaughan,Labour,Folkestone and Hythe,106319.39,302.4,0.0,0.0,106319.39,302.4,"£106k from 36 ad hoc payments (Doughty Street Chambers, Legal Aid Agency and 1 other)."
+4462,Tom Tugendhat,Conservative,Tonbridge,30329.26,89.0,74987.43,250.7,105316.69,339.7,"£30k from 28 ad hoc payments (Spoken Ltd, Telegraph Media Group Limited and 7 others). £75k from 2 ongoing roles (Sulnox Group Plc and Observer Research Foundation Middle East)."
+4823,John Finucane,Sinn Féin,Belfast North,0.0,0.0,102841.56,1761.0,102841.56,1761.0,£103k from 1 ongoing role (Finucane Toner Ltd).
+4366,Sir James Cleverly,Conservative,Braintree,80367.5,119.0,19362.08,135.9,99729.58,254.9,£80k from 8 ad hoc payments (JLA Speakers Ltd). £19k from 1 ongoing role (BOKA Capital Ltd).
+5161,Richard Tice,Reform UK,Boston and Skegness,6953.06,200.0,88966.13,641.0,95919.19,841.0,£7k from 7 ad hoc payments (X formerly Twitter). £89k from 2 ongoing roles (Quidnet REIT Ltd).
 4475,Suella Braverman,Reform UK,Fareham and Waterlooville,95514.71,312.0,0.0,0.0,95514.71,312.0,"£96k from 38 ad hoc payments (Telegraph Media Group Holdings Ltd, Coulthwaite Group Pte Ltd (trading as CWG Speakers) and 2 others)."
-5161,Richard Tice,Reform UK,Boston and Skegness,6953.06,200.0,84533.06,609.9,91486.12,809.9,£7k from 7 ad hoc payments (X formerly Twitter). £85k from 2 ongoing roles (Quidnet REIT Ltd).
-5231,Mr Adnan Hussain,Independent,Blackburn,0.0,0.0,90620.12,4357.1,90620.12,4357.1,£91k from 2 ongoing roles (Bank View Solicitors Limited and Clarity Legal Ltd).
-4008,Dame Caroline Dinenage,Conservative,Gosport,0.0,0.0,88843.26,533.1,88843.26,533.1,£89k from 1 ongoing role (LNT Care Developments Group).
-1211,Sir Andrew Mitchell,Conservative,Sutton Coldfield,0.0,0.0,83431.99,113.7,83431.99,113.7,£83k from 2 ongoing roles (Africa50 and SuBaha Investments).
+5231,Mr Adnan Hussain,Independent,Blackburn,0.0,0.0,93552.36,4498.1,93552.36,4498.1,£94k from 2 ongoing roles (Bank View Solicitors Limited and Clarity Legal Ltd).
+4008,Dame Caroline Dinenage,Conservative,Gosport,0.0,0.0,91718.0,550.3,91718.0,550.3,£92k from 1 ongoing role (LNT Care Developments Group).
+1211,Sir Andrew Mitchell,Conservative,Sutton Coldfield,0.0,0.0,91038.8,124.0,91038.8,124.0,£91k from 2 ongoing roles (Africa50 and SuBaha Investments).
 5267,Yuan Yang,Labour,Earley and Woodley,77834.29,2.0,0.0,0.0,77834.29,2.0,"£78k from 6 ad hoc payments (RCW Literary Agency, Grupa Wydawnicza Foksal Ltd and 1 other)."
 221,Dan Norris,Independent,North East Somerset and Hanham,1559.68,0.0,75632.61,1135.4,77192.29,1135.4,£2k from 1 ad hoc payment (West of England Mayoral Combined Authority). £76k from 1 ongoing role (West of England Mayoral Combined Authority).
+5158,Rupert Lowe,Restore Britain,Great Yarmouth,73751.09,196.0,0.0,0.0,73751.09,196.0,£74k from 37 ad hoc payments (X Corp and GB News).
 5176,Baggy Shanker,Labour (Co-op),Derby South,68671.51,100.0,0.0,0.0,68671.51,100.0,£69k from 5 ad hoc payments (Rolls-Royce Civil Aerospace and Derby City Council).
-5158,Rupert Lowe,Restore Britain,Great Yarmouth,67145.37,186.0,0.0,0.0,67145.37,186.0,£67k from 35 ad hoc payments (X Corp and GB News).
-373,David Davis,Conservative,Goole and Pocklington,0.0,0.0,60235.73,28.4,60235.73,28.4,£60k from 1 ongoing role (THI Investments UK Ltd).
-3912,Richard Fuller,Conservative,North Bedfordshire,0.0,0.0,59247.09,308.1,59247.09,308.1,£59k from 2 ongoing roles (Investcorp Securities Ltd and Bloomsbury Home Care Limited).
+373,David Davis,Conservative,Goole and Pocklington,0.0,0.0,62184.8,29.3,62184.8,29.3,£62k from 1 ongoing role (THI Investments UK Ltd).
+3912,Richard Fuller,Conservative,North Bedfordshire,0.0,0.0,61546.89,320.5,61546.89,320.5,£62k from 2 ongoing roles (Investcorp Securities Ltd and Bloomsbury Home Care Limited).
+4651,Dan Carden,Labour,Liverpool Walton,6850.0,20.0,53253.78,205.8,60103.78,225.8,£7k from 2 ad hoc payments (Steps Together Rehab (St Helen's) Ltd and Associated Newspapers Ltd (ANMFS Ltd)). £53k from 2 ongoing roles (Steps Together Group Ltd and Green Rock Robotics INC.).
+4356,Angela Rayner,Labour,Ashton-under-Lyne,59000.0,11.4,0.0,0.0,59000.0,11.4,"£59k from 4 ad hoc payments (Chartwell Speakers, JLA Speakers Ltd and 1 other)."
+5239,Sarah Gibson,Liberal Democrat,Chippenham,27512.04,502.6,31420.99,565.5,58933.03,1068.1,£28k from 19 ad hoc payments (University of Bath and Wiltshire Council). £31k from 2 ongoing roles (Wiltshire Council and University of Bath).
 4370,Jess Phillips,Labour,Birmingham Yardley,58757.92,8.0,0.0,0.0,58757.92,8.0,"£59k from 9 ad hoc payments (United Agents, News UK & Ireland and 2 others)."
-5239,Sarah Gibson,Liberal Democrat,Chippenham,27512.04,502.6,30219.67,539.6,57731.71,1042.2,£28k from 19 ad hoc payments (University of Bath and Wiltshire Council). £30k from 2 ongoing roles (Wiltshire Council and University of Bath).
-4651,Dan Carden,Labour,Liverpool Walton,6850.0,20.0,50178.04,194.1,57028.04,214.1,£7k from 2 ad hoc payments (Steps Together Rehab (St Helen's) Ltd and Associated Newspapers Ltd (ANMFS Ltd)). £50k from 2 ongoing roles (Steps Together Group Ltd and Green Rock Robotics INC.).
-249,Sir Geoffrey Clifton-Brown,Conservative,North Cotswolds,27111.05,255.0,26652.98,476.2,53764.03,731.2,£27k from 1 ad hoc payment (East Beckham partnership). £27k from 1 ongoing role (East Beckham partnership).
-1466,Dr Andrew Murrison,Conservative,South West Wiltshire,53738.93,912.0,0.0,0.0,53738.93,912.0,£54k from 8 ad hoc payments (Royal Naval Reserve).
-5213,Dr Zubir Ahmed,Labour,Glasgow South West,51688.0,676.0,1424.72,19.3,53112.72,695.3,£52k from 3 ad hoc payments (NHS golden jubilee and NHS Fife). £1k from 1 ongoing role (NHS golden jubilee).
+1466,Dr Andrew Murrison,Conservative,South West Wiltshire,57399.93,976.0,0.0,0.0,57399.93,976.0,£57k from 9 ad hoc payments (Royal Naval Reserve).
+4095,Steve Barclay,Conservative,North East Cambridgeshire,56000.0,147.0,0.0,0.0,56000.0,147.0,"£56k from 14 ad hoc payments (BPP Holdings Limited (BPP),)."
+249,Sir Geoffrey Clifton-Brown,Conservative,North Cotswolds,27111.05,255.0,27515.4,491.6,54626.45,746.6,£27k from 1 ad hoc payment (East Beckham partnership). £28k from 1 ongoing role (East Beckham partnership).
+5213,Dr Zubir Ahmed,Labour,Glasgow South West,51688.0,676.0,2849.45,38.6,54537.45,714.6,£52k from 3 ad hoc payments (NHS golden jubilee and NHS Fife). £3k from 1 ongoing role (NHS golden jubilee).
 5082,Jake Richards,Labour,Rother Valley,52070.0,0.0,0.0,0.0,52070.0,0.0,£52k from 17 ad hoc payments (Deka Chambers).
-4095,Steve Barclay,Conservative,North East Cambridgeshire,52000.0,136.5,0.0,0.0,52000.0,136.5,"£52k from 13 ad hoc payments (BPP Holdings Limited (BPP),)."
 5360,David Pinto-Duschinsky,Labour,Hendon,51639.21,0.0,0.0,0.0,51639.21,0.0,£52k from 3 ad hoc payments (EY).
+4592,Dr Caroline Johnson,Conservative,Sleaford and North Hykeham,713.4,0.0,48081.51,616.3,48794.91,616.3,£713 from 1 ad hoc payment (North West Anglia NHS Foundation Trust). £48k from 1 ongoing role (North West Anglia NHS Foundation Trust).
+5295,Josh Fenton-Glynn,Labour,Calder Valley,0.0,0.0,48369.87,1339.0,48369.87,1339.0,£48k from 1 ongoing role (Calderdale Council).
 5119,Natasha Irons,Labour,Croydon East,47219.0,0.0,178.28,8.6,47397.28,8.6,£47k from 1 ad hoc payment (Channel 4 Television). £178 from 1 ongoing role (Channel 4 Television).
-4592,Dr Caroline Johnson,Conservative,Sleaford and North Hykeham,713.4,0.0,46574.48,597.0,47287.88,597.0,£713 from 1 ad hoc payment (North West Anglia NHS Foundation Trust). £47k from 1 ongoing role (North West Anglia NHS Foundation Trust).
-5295,Josh Fenton-Glynn,Labour,Calder Valley,0.0,0.0,46853.8,1297.0,46853.8,1297.0,£47k from 1 ongoing role (Calderdale Council).
 172,Ms Diane Abbott,Independent,Hackney North and Stoke Newington,43200.0,44.0,0.0,0.0,43200.0,44.0,"£43k from 3 ad hoc payments (Viking- Penguin via Blake Friedmann Literary, TV & Film Agency Ltd and Penguin Audio via Blake Friedmann Literary, TV & Film Agency Ltd)."
-4356,Angela Rayner,Labour,Ashton-under-Lyne,39000.0,8.4,0.0,0.0,39000.0,8.4,"£39k from 3 ad hoc payments (JLA Speakers Ltd, Chartwell Speakers and 1 other)."
-5362,Mr Angus MacDonald,Liberal Democrat,"Inverness, Skye and West Ross-shire",0.0,0.0,37927.19,1575.0,37927.19,1575.0,£38k from 1 ongoing role (Highland Council).
-4084,Esther McVey,Conservative,Tatton,37789.71,223.0,0.0,0.0,37789.71,223.0,"£38k from 33 ad hoc payments (Reach Group Limited, GB News and 1 other)."
-5103,Luke Taylor,Liberal Democrat,Sutton and Cheam,0.0,0.0,37630.09,1775.1,37630.09,1775.1,£38k from 3 ongoing roles (London Borough of Sutton and Ricondo).
-146,Barry Gardiner,Labour,Brent West,36005.0,739.0,0.0,0.0,36005.0,739.0,"£36k from 28 ad hoc payments (GB News, Asian Democracy Limited and 3 others)."
-5329,John Milne,Liberal Democrat,Horsham,0.0,0.0,35731.51,533.1,35731.51,533.1,£36k from 2 ongoing roles (West Sussex County Council and Horsham District Council).
+5362,Mr Angus MacDonald,Liberal Democrat,"Inverness, Skye and West Ross-shire",0.0,0.0,39154.41,1625.9,39154.41,1625.9,£39k from 1 ongoing role (Highland Council).
+5103,Luke Taylor,Liberal Democrat,Sutton and Cheam,0.0,0.0,38062.32,1803.0,38062.32,1803.0,£38k from 3 ongoing roles (London Borough of Sutton and Ricondo).
+4084,Esther McVey,Conservative,Tatton,37989.71,225.0,0.0,0.0,37989.71,225.0,"£38k from 34 ad hoc payments (Reach Group Limited, GB News and 1 other)."
+146,Barry Gardiner,Labour,Brent West,37955.0,804.0,0.0,0.0,37955.0,804.0,"£38k from 30 ad hoc payments (GB News, Asian Democracy Limited and 3 others)."
 5116,Chris McDonald,Labour,Stockton North,34659.61,120.0,0.0,0.0,34659.61,120.0,£35k from 5 ad hoc payments (Materials Processing Institute and Millennium Steel Publishing).
-5111,Martin Wrigley,Liberal Democrat,Newton Abbot,6986.07,20.0,26122.61,2311.8,33108.68,2331.8,"£7k from 4 ad hoc payments (Teignbridge district council). £26k from 4 ongoing roles (Devon County Council, Teignbridge district council and 1 other)."
+5357,Ayoub Khan,Independent,Birmingham Perry Barr,33661.11,3624.0,0.0,0.0,33661.11,3624.0,£34k from 21 ad hoc payments (Birmingham City Council).
+5111,Martin Wrigley,Liberal Democrat,Newton Abbot,6986.07,20.0,26575.39,2375.2,33561.46,2395.2,"£7k from 4 ad hoc payments (Teignbridge district council). £27k from 4 ongoing roles (Devon County Council, Teignbridge district council and 1 other)."
+5343,Mr Joshua Reynolds,Liberal Democrat,Maidenhead,0.0,0.0,33330.62,1912.9,33330.62,1912.9,£33k from 2 ongoing roles (Berkshire Fire Authority and Royal Borough of Windsor & Maidenhead).
+4656,Layla Moran,Liberal Democrat,Oxford West and Abingdon,0.0,0.0,33161.56,220.1,33161.56,220.1,£33k from 1 ongoing role (CSA Catapult Innovation Centre).
+5196,Brian Leishman,Labour,Alloa and Grangemouth,0.0,0.0,32969.61,3825.7,32969.61,3825.7,£33k from 1 ongoing role (Perth and Kinross Council).
+4074,Mark Garnier,Conservative,Wyre Forest,14620.0,19.0,18338.12,212.6,32958.12,231.6,£15k from 3 ad hoc payments (GBMW Ltd and Super Sharp Space Systems). £18k from 3 ongoing roles (Super Sharp Space Systems and Space Solar Group Holdings).
 5340,Jack Rankin,Conservative,Windsor,19590.0,0.0,12936.34,29.6,32526.34,29.6,£20k from 1 ad hoc payment (Pexapark (UK) Limited). £13k from 1 ongoing role (Pexapark (UK) Limited).
-4074,Mark Garnier,Conservative,Wyre Forest,14620.0,19.0,17763.18,201.9,32383.18,220.9,£15k from 3 ad hoc payments (GBMW Ltd and Super Sharp Space Systems). £18k from 3 ongoing roles (Super Sharp Space Systems and Space Solar Group Holdings).
-5343,Mr Joshua Reynolds,Liberal Democrat,Maidenhead,0.0,0.0,32285.92,1852.9,32285.92,1852.9,£32k from 2 ongoing roles (Berkshire Fire Authority and Royal Borough of Windsor & Maidenhead).
-4656,Layla Moran,Liberal Democrat,Oxford West and Abingdon,0.0,0.0,32122.17,213.2,32122.17,213.2,£32k from 1 ongoing role (CSA Catapult Innovation Centre).
-5196,Brian Leishman,Labour,Alloa and Grangemouth,0.0,0.0,31936.24,3705.8,31936.24,3705.8,£32k from 1 ongoing role (Perth and Kinross Council).
-5346,Calum Miller,Liberal Democrat,Bicester and Woodstock,8007.91,56.0,23731.81,926.5,31739.72,982.5,"£8k from 2 ad hoc payments (Blavatnik School of Government, Oxford University). £24k from 1 ongoing role (Oxfordshire County Council)."
-5357,Ayoub Khan,Independent,Birmingham Perry Barr,31460.0,3448.0,0.0,0.0,31460.0,3448.0,£31k from 20 ad hoc payments (Birmingham City Council).
+5346,Calum Miller,Liberal Democrat,Bicester and Woodstock,8007.91,56.0,24499.71,956.4,32507.62,1012.4,"£8k from 2 ad hoc payments (Blavatnik School of Government, Oxford University). £24k from 1 ongoing role (Oxfordshire County Council)."
 5138,Ian Roome,Liberal Democrat,North Devon,3329.02,105.0,25969.55,680.7,29298.57,785.7,"£3k from 3 ad hoc payments (Royal Devon University Healthcare NHS Foundation Trust, Devon County Council and 1 other). £26k from 3 ongoing roles (Devon County Council, North Devon District Council and 1 other)."
-5214,Brian Mathew,Liberal Democrat,Melksham and Devizes,0.0,0.0,28197.14,2779.4,28197.14,2779.4,£28k from 1 ongoing role (Wiltshire Council).
-5296,Freddie van Mierlo,Liberal Democrat,Henley and Thame,0.0,0.0,27803.42,1272.6,27803.42,1272.6,£28k from 2 ongoing roles (Oxfordshire County Council and South Oxfordshire District Council).
-5191,Adam Dance,Liberal Democrat,Yeovil,0.0,0.0,27541.48,1297.0,27541.48,1297.0,£28k from 1 ongoing role (Somerset Council).
-4089,Tessa Munt,Liberal Democrat,Wells and Mendip Hills,0.0,0.0,27541.41,1389.7,27541.41,1389.7,£28k from 1 ongoing role (Somerset Council).
+5214,Brian Mathew,Liberal Democrat,Melksham and Devizes,0.0,0.0,29109.53,2869.3,29109.53,2869.3,£29k from 1 ongoing role (Wiltshire Council).
+5296,Freddie van Mierlo,Liberal Democrat,Henley and Thame,0.0,0.0,28571.32,1305.8,28571.32,1305.8,£29k from 2 ongoing roles (Oxfordshire County Council and South Oxfordshire District Council).
+5191,Adam Dance,Liberal Democrat,Yeovil,0.0,0.0,28432.65,1339.0,28432.65,1339.0,£28k from 1 ongoing role (Somerset Council).
+4089,Tessa Munt,Liberal Democrat,Wells and Mendip Hills,0.0,0.0,28432.58,1434.7,28432.58,1434.7,£28k from 1 ongoing role (Somerset Council).
+5200,Kenneth Stevenson,Labour,Airdrie and Shotts,584.79,25.0,27665.3,2391.1,28250.09,2416.1,£585 from 1 ad hoc payment (North Lanarkshire Council). £28k from 1 ongoing role (North Lanarkshire Council).
 4409,Naz Shah,Labour,Bradford West,27495.0,209.0,0.0,0.0,27495.0,209.0,"£27k from 4 ad hoc payments (A M Heath & Company Limited,)."
-5200,Kenneth Stevenson,Labour,Airdrie and Shotts,584.79,25.0,26798.18,2316.1,27382.97,2341.1,£585 from 1 ad hoc payment (North Lanarkshire Council). £27k from 1 ongoing role (North Lanarkshire Council).
-4995,Sarah Dyke,Liberal Democrat,Glastonbury and Somerton,0.0,0.0,26085.38,648.5,26085.38,648.5,£26k from 1 ongoing role (Somerset Council).
-5327,Vikki Slade,Liberal Democrat,Mid Dorset and North Poole,0.0,0.0,26058.92,1397.0,26058.92,1397.0,£26k from 2 ongoing roles (BCP Council and Local Government Association).
-5297,Rebecca Paul,Conservative,Reigate,0.0,0.0,25604.56,682.3,25604.56,682.3,£26k from 1 ongoing role (Surrey County Council).
-5447,Hannah Spencer,Green Party,Gorton and Denton,0.0,0.0,24841.21,1111.7,24841.21,1111.7,£25k from 1 ongoing role (Trafford Council).
-5265,James MacCleary,Liberal Democrat,Lewes,0.0,0.0,24229.26,1066.1,24229.26,1066.1,£24k from 2 ongoing roles (East Sussex County Council and Lewes District Council).
-5164,Steff Aquarone,Liberal Democrat,North Norfolk,702.0,15.0,22155.73,0.0,22857.73,15.0,£702 from 1 ad hoc payment (Mango Online Learning Development Solutions Limited). £22k from 1 ongoing role (Norfolk County Councillor).
-4434,Stephen Gethins,Scottish National Party,Arbroath and Broughty Ferry,8342.39,75.0,14095.12,213.7,22437.51,288.7,"£8k from 4 ad hoc payments (University of St Andrews). £14k from 1 ongoing role (School of International Relations, University of St Andrews)."
-5301,Rebecca Smith,Conservative,South West Devon,0.0,0.0,22171.3,1436.8,22171.3,1436.8,£22k from 2 ongoing roles (Plymouth City Council and Commonwealth War Graves Commission).
-5139,Emily Darlington,Labour,Milton Keynes Central,0.0,0.0,21853.95,1389.7,21853.95,1389.7,£22k from 1 ongoing role (Milton Keynes City Council).
-5050,Lewis Cocking,Conservative,Broxbourne,548.39,37.5,20879.94,213.2,21428.33,250.7,£548 from 1 ad hoc payment (Hertfordshire Police and Crime Commissioner). £21k from 1 ongoing role (Hertfordshire County Council).
-5321,Mr Paul Kohler,Liberal Democrat,Wimbledon,0.0,0.0,21347.33,926.5,21347.33,926.5,£21k from 1 ongoing role (Merton Council).
-5151,David Williams,Labour,Stoke-on-Trent North,0.0,0.0,21322.38,1279.3,21322.38,1279.3,£21k from 1 ongoing role (Stoke-on-Trent City Council).
-4573,Dr Rosena Allin-Khan,Labour,Tooting,7185.0,102.5,13642.03,247.8,20827.03,350.3,£7k from 13 ad hoc payments (St George's Hospital NHS Trust and ITV PLC). £14k from 1 ongoing role (St George's Hospital NHS Trust).
-5310,Mr Lee Dillon,Liberal Democrat,Newbury,0.0,0.0,20590.17,1389.7,20590.17,1389.7,£21k from 1 ongoing role (West Berkshire Council).
-4495,Kit Malthouse,Conservative,North West Hampshire,0.0,0.0,20533.88,345.0,20533.88,345.0,£21k from 1 ongoing role (County Asset Finance Limited).
+4995,Sarah Dyke,Liberal Democrat,Glastonbury and Somerton,0.0,0.0,26929.43,669.5,26929.43,669.5,£27k from 1 ongoing role (Somerset Council).
+5327,Vikki Slade,Liberal Democrat,Mid Dorset and North Poole,0.0,0.0,26890.18,1442.0,26890.18,1442.0,£27k from 2 ongoing roles (BCP Council and Local Government Association).
+5297,Rebecca Paul,Conservative,Reigate,0.0,0.0,26433.05,704.4,26433.05,704.4,£26k from 1 ongoing role (Surrey County Council).
+5447,Hannah Spencer,Green Party,Gorton and Denton,0.0,0.0,25645.01,1147.7,25645.01,1147.7,£26k from 1 ongoing role (Trafford Council).
+5164,Steff Aquarone,Liberal Democrat,North Norfolk,702.0,15.0,22872.64,0.0,23574.64,15.0,£702 from 1 ad hoc payment (Mango Online Learning Development Solutions Limited). £23k from 1 ongoing role (Norfolk County Councillor).
+4434,Stephen Gethins,Scottish National Party,Arbroath and Broughty Ferry,8342.39,75.0,14641.24,222.0,22983.63,297.0,"£8k from 4 ad hoc payments (University of St Andrews). £15k from 1 ongoing role (School of International Relations, University of St Andrews)."
+5139,Emily Darlington,Labour,Milton Keynes Central,0.0,0.0,22561.09,1434.7,22561.09,1434.7,£23k from 1 ongoing role (Milton Keynes City Council).
+5050,Lewis Cocking,Conservative,Broxbourne,548.39,37.5,21555.56,220.1,22103.95,257.6,£548 from 1 ad hoc payment (Hertfordshire Police and Crime Commissioner). £22k from 1 ongoing role (Hertfordshire County Council).
+5321,Mr Paul Kohler,Liberal Democrat,Wimbledon,0.0,0.0,22038.07,956.4,22038.07,956.4,£22k from 1 ongoing role (Merton Council).
+5151,David Williams,Labour,Stoke-on-Trent North,0.0,0.0,22012.32,1320.7,22012.32,1320.7,£22k from 1 ongoing role (Stoke-on-Trent City Council).
+4495,Kit Malthouse,Conservative,North West Hampshire,0.0,0.0,21971.25,369.1,21971.25,369.1,£22k from 1 ongoing role (County Asset Finance Limited).
+5301,Rebecca Smith,Conservative,South West Devon,0.0,0.0,21810.99,1413.2,21810.99,1413.2,£22k from 2 ongoing roles (Plymouth City Council and Commonwealth War Graves Commission).
+4573,Dr Rosena Allin-Khan,Labour,Tooting,7185.0,102.5,14316.11,260.1,21501.11,362.6,£7k from 13 ad hoc payments (St George's Hospital NHS Trust and ITV PLC). £14k from 1 ongoing role (St George's Hospital NHS Trust).
+5310,Mr Lee Dillon,Liberal Democrat,Newbury,0.0,0.0,21256.42,1434.7,21256.42,1434.7,£21k from 1 ongoing role (West Berkshire Council).
+5329,John Milne,Liberal Democrat,Horsham,0.0,0.0,21255.86,350.7,21255.86,350.7,£21k from 2 ongoing roles (Horsham District Council and West Sussex County Council).
+5265,James MacCleary,Liberal Democrat,Lewes,0.0,0.0,20461.97,724.1,20461.97,724.1,£20k from 2 ongoing roles (East Sussex County Council and Lewes District Council).
 5204,Sarah Sackman,Labour,Finchley and Golders Green,19948.94,133.0,0.0,0.0,19948.94,133.0,"£20k from 7 ad hoc payments (London Borough of Camden Planning Department, Government Legal Department (Secretary of State for Levelling Up Housing and Communities) and 3 others)."
 5159,Mr Connor Rand,Labour,Altrincham and Sale West,19432.24,150.0,0.0,0.0,19432.24,150.0,"£19k from 2 ad hoc payments (Union of Shop, Distributive and Allied Workers (Usdaw))."
 4320,Robert Jenrick,Reform UK,Newark,19200.0,46.0,0.0,0.0,19200.0,46.0,£19k from 3 ad hoc payments (Telegraph Media Group Holdings Limited).
 5322,Mr Will Forster,Liberal Democrat,Woking,0.0,0.0,18635.56,539.9,18635.56,539.9,£19k from 2 ongoing roles (Surrey County Council and Woking Borough Council).
-5255,Joe Robertson,Conservative,Isle of Wight East,0.0,0.0,17934.9,0.0,17934.9,0.0,£18k from 1 ongoing role (Isle of Wight Council).
+5255,Joe Robertson,Conservative,Isle of Wight East,0.0,0.0,18211.24,0.0,18211.24,0.0,£18k from 1 ongoing role (Isle of Wight Council).
 5146,Michael Payne,Labour,Gedling,2989.17,140.0,14483.68,826.5,17472.85,966.5,"£3k from 5 ad hoc payments (Nottinghamshire & City of Nottingham Fire Authority, Nottinghamshire County Council and 1 other). £14k from 4 ongoing roles (Nottinghamshire & City of Nottingham Fire Authority, Gedling Borough Council and 2 others)."
 188,Ed Davey,Liberal Democrat,Kingston and Surbiton,17250.0,156.0,0.0,0.0,17250.0,156.0,"£17k from 6 ad hoc payments (HarperCollins Publishing, Hat Trick Productions and 1 other)."
 5188,Tracy Gilbert,Labour,Edinburgh North and Leith,16269.01,80.0,0.0,0.0,16269.01,80.0,£16k from 2 ad hoc payments (USDAW).
 5100,Blake Stephenson,Conservative,Mid Bedfordshire,15846.1,37.0,0.0,0.0,15846.1,37.0,£16k from 2 ad hoc payments (Tradeweb Europe Limited and Central Bedfordshire Council).
 5069,Torsten Bell,Labour,Swansea West,15702.93,44.0,0.0,0.0,15702.93,44.0,"£16k from 7 ad hoc payments (Robert Caskie, The Observer and 1 other)."
 5065,Rachel Taylor,Labour,North Warwickshire and Bedworth,15624.0,0.0,0.0,0.0,15624.0,0.0,£16k from 1 ad hoc payment (Rachel Taylor Consultancy Limited).
+5345,Peter Lamb,Labour,Crawley,656.25,0.0,14867.72,0.0,15523.97,0.0,£656 from 1 ad hoc payment (CIPD). £15k from 3 ongoing roles (Crawley Borough Council).
 5254,Alison Hume,Labour,Scarborough and Whitby,15456.04,0.0,0.0,0.0,15456.04,0.0,£15k from 6 ad hoc payments (Rochelle Stevens & Co Ltd).
 5242,Michael Wheeler,Labour,Worsley and Eccles,14566.67,0.0,787.79,24.2,15354.46,24.2,"£15k from 1 ad hoc payment (Union of Shop, Distributive and Allied Workers). £788 from 1 ongoing role (Union of Shop, Distributive and Allied Workers)."
 4118,Sir Julian Smith,Conservative,Skipton and Ripon,15181.94,99.0,0.0,0.0,15181.94,99.0,£15k from 8 ad hoc payments (International Finance Facility for Education).
-5345,Peter Lamb,Labour,Crawley,656.25,0.0,14440.3,0.0,15096.55,0.0,£656 from 1 ad hoc payment (CIPD). £14k from 3 ongoing roles (Crawley Borough Council).
 5042,Pam Cox,Labour,Colchester,631.38,20.0,14155.07,321.2,14786.45,341.2,£631 from 1 ad hoc payment (Colchester City Council). £14k from 1 ongoing role (University of Essex).
 227,Andrew George,Liberal Democrat,St Ives,0.0,0.0,14483.12,643.4,14483.12,643.4,£14k from 1 ongoing role (Cornwall Council).
 1171,Liam Byrne,Labour,Birmingham Hodge Hill and Solihull North,14350.0,40.0,0.0,0.0,14350.0,40.0,£14k from 4 ad hoc payments (Head of Zeus – UK).
+3991,Jesse Norman,Conservative,Hereford and South Herefordshire,14168.8,60.0,0.0,0.0,14168.8,60.0,£14k from 21 ad hoc payments (Peters Fraser & Dunlop Ltd and Liberty Fund Inc).
 5073,Marie Goldman,Liberal Democrat,Chelmsford,0.0,0.0,13996.71,337.3,13996.71,337.3,£14k from 3 ongoing roles (Essex County Council and Chelmsford City Council).
-3991,Jesse Norman,Conservative,Hereford and South Herefordshire,13990.45,60.0,0.0,0.0,13990.45,60.0,£14k from 20 ad hoc payments (Peters Fraser & Dunlop Ltd and Liberty Fund Inc).
+152,Sir Iain Duncan Smith,Conservative,Chingford and Woodford Green,12990.0,171.0,0.0,0.0,12990.0,171.0,"£13k from 35 ad hoc payments (Daily Telegraph and Sunday Telegraph, News UK and Ireland and 3 others)."
 5288,Dr Al Pinkerton,Liberal Democrat,Surrey Heath,4106.21,40.0,8782.32,274.1,12888.53,314.1,£4k from 1 ad hoc payment (Royal Holloway University). £9k from 1 ongoing role (Royal Holloway University).
-152,Sir Iain Duncan Smith,Conservative,Chingford and Woodford Green,12740.0,167.0,0.0,0.0,12740.0,167.0,"£13k from 34 ad hoc payments (Daily Telegraph and Sunday Telegraph, News UK and Ireland and 3 others)."
-5182,Charlotte Cane,Liberal Democrat,Ely and East Cambridgeshire,0.0,0.0,12368.11,760.9,12368.11,760.9,£12k from 1 ongoing role (East Cambridgeshire District Council).
 4780,Laura Trott,Conservative,Sevenoaks,12000.0,24.0,0.0,0.0,12000.0,24.0,£12k from 2 ad hoc payments (Association of Consulting Actuaries (ACA) and Coex Partners).
-4938,Paulette Hamilton,Labour,Birmingham Erdington,4701.4,101.0,6396.71,213.2,11098.11,314.2,£5k from 16 ad hoc payments (ITN Productions and Birmingham and Solihull Mental Health Trust). £6k from 1 ongoing role (Birmingham and Solihull Mental Health Trust).
+5047,James Naish,Labour,Rushcliffe,0.0,0.0,11516.04,424.5,11516.04,424.5,£12k from 3 ongoing roles (Open Door Property Holidays Ltd and Open Door Property Ltd).
+4938,Paulette Hamilton,Labour,Birmingham Erdington,4701.4,101.0,6603.7,220.1,11305.1,321.1,£5k from 16 ad hoc payments (ITN Productions and Birmingham and Solihull Mental Health Trust). £7k from 1 ongoing role (Birmingham and Solihull Mental Health Trust).
 5229,Joe Powell,Labour,Kensington and Bayswater,11054.89,32.0,0.0,0.0,11054.89,32.0,£11k from 1 ad hoc payment (Open Government Partnership).
 5170,John Grady,Labour,Glasgow East,9761.0,2.0,0.0,0.0,9761.0,2.0,£10k from 2 ad hoc payments (Shepherd and Wedderburn LLP).
 5330,Mr Peter Bedford,Conservative,Mid Leicestershire,0.0,0.0,9525.88,189.2,9525.88,189.2,£10k from 1 ongoing role (Leicestershire County Council).
-5335,Jess Brown-Fuller,Liberal Democrat,Chichester,616.0,15.0,8870.11,426.4,9486.11,441.4,£616 from 1 ad hoc payment (Chichester District Council). £9k from 1 ongoing role (Chichester District Council).
-5047,James Naish,Labour,Rushcliffe,0.0,0.0,9300.08,421.1,9300.08,421.1,£9k from 3 ongoing roles (Open Door Property Holidays Ltd and Open Door Property Ltd).
 5232,Lorraine Beavers,Labour,Blackpool North and Fleetwood,0.0,0.0,8681.0,230.0,8681.0,230.0,£9k from 2 ongoing roles (Lancashire County Council and Wyre Council).
 5324,Sarah Russell,Labour,Congleton,8330.0,41.8,0.0,0.0,8330.0,41.8,£8k from 2 ad hoc payments (Rebel Law Ltd and Fox Whitfield).
 5157,Susan Murray,Liberal Democrat,Mid Dunbartonshire,0.0,0.0,7947.76,402.1,7947.76,402.1,£8k from 1 ongoing role (East Dunbartonshire Council).
-5134,Andy MacNae,Labour,Rossendale and Darwen,0.0,0.0,7715.71,4.6,7715.71,4.6,£8k from 2 ongoing roles (Venture Xtreme Consultancy Limited).
+5134,Andy MacNae,Labour,Rossendale and Darwen,0.0,0.0,7943.39,4.6,7943.39,4.6,£8k from 2 ongoing roles (Venture Xtreme Consultancy Limited).
 5192,Helena Dollimore,Labour (Co-op),Hastings and Rye,7588.42,0.0,0.0,0.0,7588.42,0.0,£8k from 1 ad hoc payment (Unilever UK).
 5155,Chris Kane,Labour,Stirling and Strathallan,0.0,0.0,7093.43,227.0,7093.43,227.0,£7k from 2 ongoing roles (Stirling Council and Loch Lomond and the Trossachs National Park).
 4040,Chris Evans,Labour (Co-op),Caerphilly,7063.06,100.0,0.0,0.0,7063.06,100.0,£7k from 4 ad hoc payments (David Luxton Associates Ltd and David Luxton).
@@ -120,34 +118,37 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5175,Mr Alex Barros-Curtis,Labour,Cardiff West,6652.98,48.0,0.0,0.0,6652.98,48.0,£7k from 1 ad hoc payment (The Labour Party).
 5333,Lucy Rigby,Labour,Northampton North,6477.81,0.0,0.0,0.0,6477.81,0.0,£6k from 1 ad hoc payment (Hausfeld & Co LLP).
 5030,Dr Simon Opher,Labour,Stroud,6250.0,94.5,0.0,0.0,6250.0,94.5,£6k from 6 ad hoc payments (NHS and Mail on Sunday).
+5182,Charlotte Cane,Liberal Democrat,Ely and East Cambridgeshire,0.0,0.0,6042.56,349.6,6042.56,349.6,£6k from 1 ongoing role (East Cambridgeshire District Council).
 5350,Ben Maguire,Liberal Democrat,North Cornwall,0.0,0.0,5834.25,123.1,5834.25,123.1,£6k from 1 ongoing role (Intel Corporation (UK) Ltd).
-4739,Jerome Mayhew,Conservative,Broadland and Fakenham,0.0,0.0,5330.6,35.5,5330.6,35.5,£5k from 1 ongoing role (Walsingham Estate Management Ltd).
+4739,Jerome Mayhew,Conservative,Broadland and Fakenham,0.0,0.0,5503.08,36.7,5503.08,36.7,£6k from 1 ongoing role (Walsingham Estate Management Ltd).
+4480,Carolyn Harris,Labour,Neath and Swansea East,5340.0,125.5,0.0,0.0,5340.0,125.5,£5k from 18 ad hoc payments (ITN).
 5163,Peter Prinsley,Labour,Bury St Edmunds and Stowmarket,4752.64,29.0,478.34,12.2,5230.98,41.2,"£5k from 7 ad hoc payments (Peter Prinsley private medical practice, Private patient payments and 3 others). £478 from 1 ongoing role (Norwich City Council)."
 4479,Nick Thomas-Symonds,Labour,Torfaen,5166.19,0.0,0.0,0.0,5166.19,0.0,£5k from 6 ad hoc payments (The Wylie Agency (UK) Ltd).
-4480,Carolyn Harris,Labour,Neath and Swansea East,5040.0,118.5,0.0,0.0,5040.0,118.5,£5k from 17 ad hoc payments (ITN).
 4474,Kevin Hollinrake,Conservative,Thirsk and Malton,5000.0,0.0,0.0,0.0,5000.0,0.0,£5k from 1 ad hoc payment (Together Financial Services Ltd).
 5226,Michelle Welsh,Labour,Sherwood Forest,835.63,40.0,4146.87,533.7,4982.5,573.7,£836 from 2 ad hoc payments (Nottinghamshire County Council and Gedling Borough Council). £4k from 2 ongoing roles (Nottinghamshire County Council and Gedling Borough Council).
 5037,Lola McEvoy,Labour,Darlington,4971.51,0.0,0.0,0.0,4971.51,0.0,£5k from 1 ad hoc payment (GMB Union).
 5355,Sarah Bool,Conservative,South Northamptonshire,4825.59,35.0,0.0,0.0,4825.59,35.0,£5k from 1 ad hoc payment (Forsters LLP).
 5118,Chris Curtis,Labour,Milton Keynes North,4800.0,64.0,0.0,0.0,4800.0,64.0,£5k from 1 ad hoc payment (Labour Party).
 5041,Shaun Davies,Labour,Telford,0.0,0.0,4759.06,127.7,4759.06,127.7,£5k from 2 ongoing roles (Wrekin Housing Group and Telford and Wrekin Council).
+4857,Carla Lockhart,Democratic Unionist Party,Upper Bann,0.0,0.0,4585.9,765.1,4585.9,765.1,£5k from 1 ongoing role (Carla Lockhart and Rodney Condell).
 5318,Olly Glover,Liberal Democrat,Didcot and Wantage,4450.0,98.0,0.0,0.0,4450.0,98.0,£4k from 1 ad hoc payment (AtkinsRéalis).
-4857,Carla Lockhart,Democratic Unionist Party,Upper Bann,0.0,0.0,4442.16,741.2,4442.16,741.2,£4k from 1 ongoing role (Carla Lockhart and Rodney Condell).
 5186,Bradley Thomas,Conservative,Bromsgrove,4342.08,30.0,0.0,0.0,4342.08,30.0,£4k from 1 ad hoc payment (Baxi Heating UK Limited).
 5060,Josh Simons,Labour,Makerfield,4340.33,45.0,0.0,0.0,4340.33,45.0,£4k from 2 ad hoc payments (Labour Together and Sky UK Limited).
+4853,Dr Neil Hudson,Conservative,Epping Forest,0.0,0.0,4202.63,70.6,4202.63,70.6,£4k from 1 ongoing role (British Horseracing Authority's Horse Welfare Board).
 5128,Phil Brickell,Labour,Bolton West,4064.39,85.0,0.0,0.0,4064.39,85.0,£4k from 2 ad hoc payments (NatWest Group PLC and Manchester City Council).
 5102,Carla Denyer,Green Party,Bristol Central,4001.1,20.0,0.0,0.0,4001.1,20.0,£4k from 3 ad hoc payments (ITV Studios Limited and The Green Party of England and Wales).
+5335,Jess Brown-Fuller,Liberal Democrat,Chichester,616.0,15.0,3362.17,161.6,3978.17,176.6,£616 from 1 ad hoc payment (Chichester District Council). £3k from 1 ongoing role (Chichester District Council).
 5252,Rachel Gilmour,Liberal Democrat,Tiverton and Minehead,0.0,0.0,3942.51,315.4,3942.51,315.4,£4k from 1 ongoing role (Mid Devon District Council).
-4853,Dr Neil Hudson,Conservative,Epping Forest,0.0,0.0,3915.16,65.8,3915.16,65.8,£4k from 1 ongoing role (British Horseracing Authority's Horse Welfare Board).
+4500,Clive Lewis,Labour,Norwich South,3902.89,30.8,0.0,0.0,3902.89,30.8,"£4k from 14 ad hoc payments (Guardian News & Media Limited, Byline Media Holdings Ltd and 1 other)."
+4657,Anneliese Dodds,Labour (Co-op),Oxford East,3640.5,1.0,0.0,0.0,3640.5,1.0,"£4k from 5 ad hoc payments (Bloomsbury Publishers Plc, The Oxford Study Abroad Programme (OSAP) and 1 other)."
 5266,Mike Tapp,Labour,Dover and Deal,3458.38,0.0,0.0,0.0,3458.38,0.0,£3k from 1 ad hoc payment (IPSA).
-4500,Clive Lewis,Labour,Norwich South,3449.59,28.8,0.0,0.0,3449.59,28.8,"£3k from 13 ad hoc payments (Guardian News & Media Limited, Byline Media Holdings Ltd and 1 other)."
 5074,Mr Paul Foster,Labour,South Ribble,0.0,0.0,3343.14,154.2,3343.14,154.2,£3k from 1 ongoing role (South Ribble Borough Council).
 5130,Matt Turmaine,Labour,Watford,3286.23,40.0,0.0,0.0,3286.23,40.0,£3k from 1 ad hoc payment (Hertfordshire County Council).
 1536,Emily Thornberry,Labour,Islington South and Finsbury,3250.0,10.0,0.0,0.0,3250.0,10.0,"£3k from 4 ad hoc payments (Global Media Group, Sky UK LTD and 1 other)."
+4613,Alex Burghart,Conservative,Brentwood and Ongar,3250.0,37.5,0.0,0.0,3250.0,37.5,£3k from 5 ad hoc payments (Primary Access & Research Limited and The Spectator).
 4764,Bell Ribeiro-Addy,Labour,Clapham and Brixton Hill,3218.45,7.5,0.0,0.0,3218.45,7.5,"£3k from 4 ad hoc payments (Inclusive Boards, Omnicom Media Group and 2 others)."
 5198,Chris Coghlan,Liberal Democrat,Dorking and Horley,3202.41,129.0,0.0,0.0,3202.41,129.0,£3k from 5 ad hoc payments (British Army and Access-The Foundation for Social Investment).
 5177,Ann Davies,Plaid Cymru,Caerfyrddin,3172.0,80.0,0.0,0.0,3172.0,80.0,£3k from 1 ad hoc payment (Carmarthenshire County Council).
-4657,Anneliese Dodds,Labour (Co-op),Oxford East,3077.73,1.0,0.0,0.0,3077.73,1.0,"£3k from 4 ad hoc payments (Bloomsbury Publishers Plc, The Oxford Study Abroad Programme (OSAP) and 1 other)."
 5180,Nesil Caliskan,Labour,Barking,0.0,0.0,3065.17,104.5,3065.17,104.5,£3k from 2 ongoing roles (London Borough of Enfield and Local Government Association).
 5070,Lisa Smart,Liberal Democrat,Hazel Grove,417.69,3.0,2610.69,36.1,3028.38,39.1,£418 from 1 ad hoc payment (Local Government Association). £3k from 1 ongoing role (Stockport Metropolitan Borough Council).
 5162,Matthew Patrick,Labour,Wirral West,3012.12,0.0,0.0,0.0,3012.12,0.0,£3k from 1 ad hoc payment (Pay.UK).
@@ -169,10 +170,11 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5278,Uma Kumaran,Labour,Stratford and Bow,2345.8,0.0,0.0,0.0,2345.8,0.0,£2k from 1 ad hoc payment (C40 Cities).
 5351,Gregory Stafford,Conservative,Farnham and Bordon,2334.03,0.0,0.0,0.0,2334.03,0.0,£2k from 1 ad hoc payment (NHS England).
 5167,Gregor Poynton,Labour,Livingston,2288.46,8.0,0.0,0.0,2288.46,8.0,£2k from 1 ad hoc payment (Headland Consultancy).
-4613,Alex Burghart,Conservative,Brentwood and Ongar,2250.0,34.5,0.0,0.0,2250.0,34.5,£2k from 4 ad hoc payments (Primary Access & Research Limited and The Spectator).
+420,Yvette Cooper,Labour,"Pontefract, Castleford and Knottingley",2255.23,0.0,0.0,0.0,2255.23,0.0,£2k from 3 ad hoc payments (Conville and Walsh).
 5225,Lizzi Collinge,Labour,Morecambe and Lunesdale,2240.14,30.0,0.0,0.0,2240.14,30.0,£2k from 2 ad hoc payments (Lancashire County Councillor).
 5194,Steve Yemm,Labour,Mansfield,2230.77,24.0,0.0,0.0,2230.77,24.0,£2k from 1 ad hoc payment (Optibrium Ltd.).
 5341,Laura Kyrke-Smith,Labour,Aylesbury,2221.6,0.0,0.0,0.0,2221.6,0.0,£2k from 1 ad hoc payment (International Rescue Committee UK).
+5199,Mr Luke Charters,Labour,York Outer,2217.23,4.0,0.0,0.0,2217.23,4.0,£2k from 2 ad hoc payments (Remote Technology Services Ltd and X Corp).
 1440,Pete Wishart,Scottish National Party,Perth and Kinross-shire,2150.07,0.0,0.0,0.0,2150.07,0.0,£2k from 1 ad hoc payment (EMI).
 5361,James McMurdock,Independent,South Basildon and East Thurrock,2136.35,0.0,0.0,0.0,2136.35,0.0,£2k from 1 ad hoc payment (Standard Chartered Bank).
 5275,Graeme Downie,Labour,Dunfermline and Dollar,1982.71,45.0,124.85,2.3,2107.56,47.3,£2k from 3 ad hoc payments (Fife Council and NHS FIfe). £125 from 1 ongoing role (Crimson Bridge Communications).
@@ -180,13 +182,13 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5277,Graham Leadbitter,Scottish National Party,"Moray West, Nairn and Strathspey",0.0,0.0,1972.68,144.5,1972.68,144.5,£2k from 1 ongoing role (The Moray Council).
 5233,Lee Pitcher,Labour,Doncaster East and the Isle of Axholme,1953.59,0.0,0.0,0.0,1953.59,0.0,£2k from 1 ad hoc payment (Jacobs UK Ltd).
 5094,Ms Julie Minns,Labour,Carlisle,1920.0,45.0,0.0,0.0,1920.0,45.0,£2k from 1 ad hoc payment (Family Rights Group).
+40,Sir Bernard Jenkin,Conservative,Harwich and North Essex,1914.76,8.0,0.0,0.0,1914.76,8.0,"£2k from 3 ad hoc payments (El Espaniol, and Aros Corporation Ltd)."
 5311,Harriet Cross,Conservative,Gordon and Buchan,1900.0,0.0,0.0,0.0,1900.0,0.0,£2k from 1 ad hoc payment (Copewell Ltd).
 5240,Melanie Ward,Labour,Cowdenbeath and Kirkcaldy,1887.0,0.0,0.0,0.0,1887.0,0.0,£2k from 1 ad hoc payment (Medical Aid for Palestinians).
 5220,Tristan Osborne,Labour,Chatham and Aylesford,1825.87,80.0,0.0,0.0,1825.87,80.0,£2k from 2 ad hoc payments (Medway Council and Endeavour Multi-Academy Trust).
 4514,Sir Keir Starmer,Labour,Holborn and St Pancras,1801.47,0.0,0.0,0.0,1801.47,0.0,£2k from 4 ad hoc payments (Authors’ Licensing and Collecting Society).
 5307,Dr Beccy Cooper,Labour,Worthing West,1700.0,30.0,0.0,0.0,1700.0,30.0,£2k from 1 ad hoc payment (Local Government Association (LGA)).
 5222,Tom Rutland,Labour,East Worthing and Shoreham,1668.51,0.0,0.0,0.0,1668.51,0.0,£2k from 1 ad hoc payment (Prospect trade union).
-5199,Mr Luke Charters,Labour,York Outer,1661.51,0.0,0.0,0.0,1661.51,0.0,£2k from 1 ad hoc payment (Remote Technology Services Ltd).
 5349,Alex McIntyre,Labour,Gloucester,1659.25,0.0,0.0,0.0,1659.25,0.0,£2k from 1 ad hoc payment (DAC Beachcroft LLP).
 5090,Tom Morrison,Liberal Democrat,Cheadle,0.0,0.0,1634.36,131.0,1634.36,131.0,£2k from 1 ongoing role (Stockport Metropolitan Borough Council).
 5328,Sean Woodcock,Labour,Banbury,0.0,0.0,1612.5,100.4,1612.5,100.4,£2k from 1 ongoing role (Cottsway Housing).
@@ -197,7 +199,6 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5342,John Whitby,Labour,Derbyshire Dales,1000.0,0.0,526.71,10.7,1526.71,10.7,£1k from 1 ad hoc payment (Derby City Council Social Services). £527 from 1 ongoing role (Derby City Council).
 5048,Antonia Bance,Labour,Tipton and Wednesbury,1500.67,0.0,0.0,0.0,1500.67,0.0,£2k from 1 ad hoc payment (Trades Union Congress).
 4473,Louise Haigh,Labour,Sheffield Heeley,1500.0,5.0,0.0,0.0,1500.0,5.0,"£2k from 1 ad hoc payment (Have I Got News For You, Series 70)."
-420,Yvette Cooper,Labour,"Pontefract, Castleford and Knottingley",1497.17,0.0,0.0,0.0,1497.17,0.0,£1k from 2 ad hoc payments (Conville and Walsh).
 4523,Catherine West,Labour,Hornsey and Friern Barnet,1489.8,4.0,0.0,0.0,1489.8,4.0,£1k from 1 ad hoc payment (Ravenswood School).
 5224,Kate Dearden,Labour (Co-op),Halifax,1475.23,0.0,0.0,0.0,1475.23,0.0,£1k from 1 ad hoc payment (Community trade union).
 5215,Naushabah Khan,Labour,Gillingham and Rainham,1447.21,80.0,0.0,0.0,1447.21,80.0,£1k from 1 ad hoc payment (Medway Council).
@@ -221,8 +222,8 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5083,Bobby Dean,Liberal Democrat,Carshalton and Wallington,1108.83,8.0,0.0,0.0,1108.83,8.0,£1k from 6 ad hoc payments (Sutton Council).
 5172,Dan Aldridge,Labour,Weston-super-Mare,1046.2,0.0,0.0,0.0,1046.2,0.0,"£1k from 1 ad hoc payment (BCS, the Chartered Institute for IT)."
 5122,Manuela Perteghella,Liberal Democrat,Stratford-on-Avon,310.53,16.0,703.11,78.2,1013.64,94.2,£311 from 1 ad hoc payment (The Open University). £703 from 2 ongoing roles (The Open University and Stratford-on-Avon District Council).
-4874,Andrew Griffith,Conservative,Arundel and South Downs,1000.0,1.0,0.0,0.0,1000.0,1.0,£1k from 1 ad hoc payment (The Rigby Foundation).
 4805,Alicia Kearns,Conservative,Rutland and Stamford,1000.0,3.0,0.0,0.0,1000.0,3.0,£1k from 1 ad hoc payment (LBC Radio Ltd).
+4874,Andrew Griffith,Conservative,Arundel and South Downs,1000.0,1.0,0.0,0.0,1000.0,1.0,£1k from 1 ad hoc payment (The Rigby Foundation).
 1482,Graham Stuart,Conservative,Beverley and Holderness,1000.0,3.0,0.0,0.0,1000.0,3.0,£1k from 1 ad hoc payment (These Executive Minds (TEXEM) Ltd).
 5129,Martin McCluskey,Labour,Inverclyde and Renfrewshire West,982.5,50.0,0.0,0.0,982.5,50.0,£982 from 1 ad hoc payment (Inverclyde Council).
 5249,Dr Ellie Chowns,Green Party,North Herefordshire,974.67,60.0,0.0,0.0,974.67,60.0,£975 from 1 ad hoc payment (Herefordshire Council).
@@ -238,7 +239,6 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5228,Maya Ellis,Labour,Ribble Valley,677.86,1.0,0.0,0.0,677.86,1.0,£678 from 1 ad hoc payment (Lancashire County Council).
 5040,Liz Jarvis,Liberal Democrat,Eastleigh,0.0,0.0,662.85,82.8,662.85,82.8,£663 from 1 ongoing role (Eastleigh Borough Council).
 5077,Jacob Collier,Labour,Burton and Uttoxeter,651.02,0.0,0.0,0.0,651.02,0.0,£651 from 1 ad hoc payment (Nottinghamshire and City of Nottingham Fire Authority).
-40,Sir Bernard Jenkin,Conservative,Harwich and North Essex,650.0,4.0,0.0,0.0,650.0,4.0,£650 from 2 ad hoc payments (Aros Corporation Ltd).
 5273,Connor Naismith,Labour,Crewe and Nantwich,0.0,0.0,632.26,42.8,632.26,42.8,£632 from 1 ongoing role (Independent Office for Police Conduct).
 5309,Katrina Murray,Labour,Cumbernauld and Kirkintilloch,615.85,7.5,0.0,0.0,615.85,7.5,£616 from 1 ad hoc payment (NHS Lanarkshire).
 4504,Wes Streeting,Labour,Ilford North,608.19,0.0,0.0,0.0,608.19,0.0,£608 from 2 ad hoc payments (Public Lending Right).
@@ -256,20 +256,20 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5227,Jas Athwal,Labour,Ilford South,400.0,4.0,0.0,0.0,400.0,4.0,£400 from 1 ad hoc payment (London Councils).
 5338,Terry Jermy,Labour,South West Norfolk,303.49,10.0,0.0,0.0,303.49,10.0,£303 from 1 ad hoc payment (Breckland Council).
 5190,Patricia Ferguson,Labour,Glasgow West,292.4,0.0,0.0,0.0,292.4,0.0,£292 from 1 ad hoc payment (Glasgow City Council).
+4018,Helen Grant,Conservative,Maidstone and Malling,0.0,0.0,273.79,3.8,273.79,3.8,£274 from 1 ongoing role (Archeva Limited).
 5256,Jonathan Davies,Labour,Mid Derbyshire,242.12,15.0,0.0,0.0,242.12,15.0,£242 from 1 ad hoc payment (Chesterfield Borough Council).
 5105,Jo White,Labour,Bassetlaw,184.63,0.0,0.0,0.0,184.63,0.0,£185 from 1 ad hoc payment (Bassetlaw District Council).
 5257,Rachel Blake,Labour (Co-op),Cities of London and Westminster,143.32,0.0,0.0,0.0,143.32,0.0,£143 from 1 ad hoc payment (LB Tower Hamlets).
 5244,Chris Hinchliff,Labour,North East Hertfordshire,56.23,0.0,0.0,0.0,56.23,0.0,£56 from 1 ad hoc payment (North Herts District Council).
 5323,Matt Bishop,Labour,Forest of Dean,0.0,0.0,48.01,0.7,48.01,0.7,£48 from 1 ongoing role (Forest of Dean District Council).
-5347,David Reed,Conservative,Exmouth and Exeter East,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-4268,Steve Reed,Labour (Co-op),Streatham and Croydon North,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-5316,Mike Reader,Labour,Northampton South,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-4620,Ellie Reeves,Labour,Lewisham West and East Dulwich,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5046,Andrew Ranger,Labour,Wrexham,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-5259,Dr Jeevun Sandher,Labour,Loughborough,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+4620,Ellie Reeves,Labour,Lewisham West and East Dulwich,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+4268,Steve Reed,Labour (Co-op),Streatham and Croydon North,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+5347,David Reed,Conservative,Exmouth and Exeter East,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+5316,Mike Reader,Labour,Northampton South,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4031,Rachel Reeves,Labour,Leeds West and Pudsey,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5079,Joani Reid,Independent,East Kilbride and Strathaven,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-4119,Jonathan Reynolds,Labour (Co-op),Stalybridge and Hyde,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+4077,Emma Reynolds,Labour,Wycombe,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5160,Jenny Riddell-Carpenter,Labour,Suffolk Coastal,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5403,Sarah Pochin,Reform UK,Runcorn and Helsby,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4682,Luke Pollard,Labour (Co-op),Plymouth Sutton and Devonport,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
@@ -277,7 +277,7 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5344,Ben Coleman,Labour,Chelsea and Fulham,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5201,Victoria Collins,Liberal Democrat,Harpenden and Berkhamsted,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5132,Liam Conlon,Labour,Beckenham and Penge,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-4077,Emma Reynolds,Labour,Wycombe,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+4119,Jonathan Reynolds,Labour (Co-op),Stalybridge and Hyde,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5049,Michelle Scrogham,Labour,Barrow and Furness,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5166,Mark Sewards,Labour,Leeds South West and Morley,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4998,Michael Shanks,Labour,Rutherglen,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
@@ -289,8 +289,8 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 4457,Ms Marie Rimmer,Labour,St Helens South and Whiston,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5126,Dave Robertson,Labour,Lichfield,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4360,Gavin Robinson,Democratic Unionist Party,Belfast East,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-5171,Julia Buckley,Labour,Shrewsbury,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-5235,Al Carns,Labour,Birmingham Selly Oak,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+4654,Matt Rodda,Labour,Reading Central,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+1447,Andrew Rosindell,Reform UK,Romford,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4519,James Cartlidge,Conservative,South Suffolk,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5284,David Chadwick,Liberal Democrat,"Brecon, Radnor and Cwm Tawe",0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4765,Wendy Chamberlain,Liberal Democrat,North East Fife,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
@@ -298,11 +298,12 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 4267,Sarah Champion,Labour,Rotherham,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4610,Bambos Charalambous,Labour,Southgate and Wood Green,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5263,Alex Brewer,Liberal Democrat,North East Hampshire,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+5171,Julia Buckley,Labour,Shrewsbury,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5088,Sarah Coombes,Labour,West Bromwich,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-1447,Andrew Rosindell,Reform UK,Romford,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5135,Oliver Ryan,Labour (Co-op),Burnley,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5286,Anna Sabine,Liberal Democrat,Frome and East Somerset,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-4654,Matt Rodda,Labour,Reading Central,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+5259,Dr Jeevun Sandher,Labour,Loughborough,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
+5235,Al Carns,Labour,Birmingham Selly Oak,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4806,Claire Coutinho,Conservative,East Surrey,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4607,Stephanie Peacock,Labour,Barnsley South,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5115,Jon Pearce,Labour,High Peak,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
@@ -464,7 +465,6 @@ mnis_id,name,party,constituency,adhoc_earnings,adhoc_hours,ongoing_earnings,ongo
 5205,Ben Goldsborough,Labour,South Norfolk,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5032,Tom Gordon,Liberal Democrat,Harrogate and Knaresborough,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 5036,Jodie Gosling,Labour,Nuneaton,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
-4018,Helen Grant,Conservative,Maidstone and Malling,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4918,Sarah Green,Liberal Democrat,Chesham and Amersham,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4029,Lilian Greenwood,Labour,Nottingham South,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
 4932,Mr Louie French,Conservative,Old Bexley and Sidcup,0.0,0.0,0.0,0.0,0.0,0.0,No outside employment earnings registered.
